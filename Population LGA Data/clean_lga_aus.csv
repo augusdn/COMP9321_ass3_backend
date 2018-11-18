@@ -1,0 +1,569 @@
+local_area,state_id,area_size
+Albury,NSW,305.93
+Armidale Dumaresq,NSW,4230.83
+Ashfield,NSW,8.28
+Auburn,NSW,32.48
+Ballina,NSW,484.72
+Balranald,NSW,21693.12
+Bankstown,NSW,76.8
+Bathurst Regional,NSW,3816.43
+Bega Valley,NSW,6278.96
+Bellingen,NSW,1600.38
+Berrigan,NSW,2065.93
+Blacktown,NSW,240.1
+Bland,NSW,8557.71
+Blayney,NSW,1524.88
+Blue Mountains,NSW,1431.15
+Bogan,NSW,14600.48
+Bombala,NSW,3946.57
+Boorowa,NSW,2577.97
+Botany Bay,NSW,21.69
+Bourke,NSW,41604.45
+Brewarrina,NSW,19165.18
+Broken Hill,NSW,170.29
+Burwood,NSW,7.13
+Byron,NSW,565.85
+Cabonne,NSW,6023.93
+Camden,NSW,201.26
+Campbelltown,NSW,312.14
+Canada Bay,NSW,19.89
+Canterbury,NSW,33.56
+Carrathool,NSW,18932.5
+Central Darling,NSW,53493.81
+Cessnock,NSW,1965.41
+Clarence Valley,NSW,10428.77
+Cobar,NSW,45571.01
+Coffs Harbour,NSW,1173.74
+Conargo,NSW,8737.94
+Coolamon,NSW,2430.93
+Cooma-Monaro,NSW,5184.54
+Coonamble,NSW,9915.85
+Cootamundra,NSW,1523.75
+Corowa Shire,NSW,2329.25
+Cowra,NSW,2808.67
+Deniliquin,NSW,143.19
+Dubbo,NSW,3425.68
+Dungog,NSW,2250.02
+Eurobodalla,NSW,3428.17
+Fairfield,NSW,101.52
+Forbes,NSW,4718.07
+Gilgandra,NSW,4832.01
+Glen Innes Severn,NSW,5480.36
+Gloucester,NSW,2950.17
+Gosford,NSW,941.06
+Goulburn Mulwaree,NSW,3220.01
+Great Lakes,NSW,3373.33
+Greater Hume Shire,NSW,5749.28
+Greater Taree,NSW,3729.05
+Griffith,NSW,1639.94
+Gundagai,NSW,2457.14
+Gunnedah,NSW,4987.41
+Guyra,NSW,4389.55
+Gwydir,NSW,9262.36
+Harden,NSW,1868.25
+Hawkesbury,NSW,2774.64
+Hay,NSW,11326.02
+Holroyd,NSW,40.18
+Hornsby,NSW,462.11
+Hunters Hill,NSW,5.72
+Hurstville,NSW,22.72
+Inverell,NSW,8594.94
+Jerilderie,NSW,3373.05
+Junee,NSW,2030.0
+Kempsey,NSW,3375.67
+Kiama,NSW,257.74
+Kogarah,NSW,15.55
+Ku-ring-gai,NSW,85.4
+Kyogle,NSW,3584.02
+Lachlan,NSW,14965.41
+Lake Macquarie,NSW,647.99
+Lane Cove,NSW,10.48
+Leeton,NSW,1166.95
+Leichhardt,NSW,10.55
+Lismore,NSW,1287.79
+Lithgow,NSW,4511.85
+Liverpool,NSW,305.43
+Liverpool Plains,NSW,5082.31
+Lockhart,NSW,2895.85
+Maitland,NSW,391.52
+Manly,NSW,14.36
+Marrickville,NSW,16.52
+Mid-Western Regional,NSW,8752.79
+Moree Plains,NSW,17905.95
+Mosman,NSW,8.65
+Murray,NSW,4344.45
+Murrumbidgee,NSW,3506.68
+Muswellbrook,NSW,3404.99
+Nambucca,NSW,1491.35
+Narrabri,NSW,13014.07
+Narrandera,NSW,4116.24
+Narromine,NSW,5260.39
+Newcastle,NSW,186.77
+North Sydney,NSW,10.47
+Oberon,NSW,3626.88
+Orange,NSW,283.94
+Palerang,NSW,5146.79
+Parkes,NSW,5954.92
+Parramatta,NSW,61.36
+Penrith,NSW,404.63
+Pittwater,NSW,90.33
+Port Macquarie-Hastings,NSW,3683.02
+Port Stephens,NSW,858.47
+Queanbeyan,NSW,172.36
+Randwick,NSW,36.33
+Richmond Valley,NSW,3047.39
+Rockdale,NSW,28.22
+Ryde,NSW,40.47
+Shellharbour,NSW,147.36
+Shoalhaven,NSW,4567.02
+Singleton,NSW,4892.83
+Snowy River,NSW,6030.38
+Strathfield,NSW,13.9
+Sutherland Shire,NSW,333.58
+Sydney,NSW,26.73
+Tamworth Regional,NSW,9884.22
+Temora,NSW,2802.02
+Tenterfield,NSW,7322.27
+The Hills Shire,NSW,400.45
+Tumbarumba,NSW,4392.46
+Tumut Shire,NSW,4566.63
+Tweed,NSW,1307.44
+Upper Hunter Shire,NSW,8096.06
+Upper Lachlan Shire,NSW,7127.46
+Uralla,NSW,3226.46
+Urana,NSW,3356.0
+Wagga Wagga,NSW,4825.87
+Wakool,NSW,7520.47
+Walcha,NSW,6261.29
+Walgett,NSW,22308.46
+Warren,NSW,10753.82
+Warringah,NSW,149.35
+Warrumbungle Shire,NSW,12371.08
+Waverley,NSW,9.24
+Weddin,NSW,3408.55
+Wellington,NSW,4110.09
+Wentworth,NSW,26256.73
+Willoughby,NSW,22.43
+Wingecarribee,NSW,2688.39
+Wollondilly,NSW,2555.93
+Wollongong,NSW,683.94
+Woollahra,NSW,12.27
+Wyong,NSW,739.8
+Yass Valley,NSW,3998.05
+Young,NSW,2692.68
+Unincorporated NSW,NSW,0.0
+Alpine,VIC,4788.23
+Ararat,VIC,4211.36
+Ballarat,VIC,739.03
+Banyule,VIC,62.54
+Bass Coast,VIC,864.76
+Baw Baw,VIC,4031.28
+Bayside,VIC,37.21
+Benalla,VIC,2352.64
+Boroondara,VIC,60.18
+Brimbank,VIC,123.4
+Buloke,VIC,8000.4
+Campaspe,VIC,4518.86
+Cardinia,VIC,1281.68
+Casey,VIC,409.42
+Central Goldfields,VIC,1532.78
+Colac-Otway,VIC,3437.48
+Corangamite,VIC,4407.55
+Darebin,VIC,53.47
+East Gippsland,VIC,20941.49
+Frankston,VIC,129.6
+Gannawarra,VIC,3735.34
+Glen Eira,VIC,38.69
+Glenelg,VIC,6218.29
+Golden Plains,VIC,2703.43
+Greater Bendigo,VIC,2999.98
+Greater Dandenong,VIC,129.6
+Greater Geelong,VIC,1247.89
+Greater Shepparton,VIC,2421.95
+Hepburn,VIC,1472.98
+Hindmarsh,VIC,7524.18
+Hobsons Bay,VIC,64.24
+Horsham,VIC,4267.06
+Hume,VIC,503.83
+Indigo,VIC,2040.07
+Kingston,VIC,91.37
+Knox,VIC,113.83
+Latrobe,VIC,1425.76
+Loddon,VIC,6696.44
+Macedon Ranges,VIC,1748.28
+Manningham,VIC,113.35
+Mansfield,VIC,3843.92
+Maribyrnong,VIC,31.23
+Maroondah,VIC,61.41
+Melbourne,VIC,37.36
+Melton,VIC,527.56
+Mildura,VIC,22082.48
+Mitchell,VIC,2862.43
+Moira,VIC,4046.55
+Monash,VIC,81.5
+Moonee Valley,VIC,43.14
+Moorabool,VIC,2110.62
+Moreland,VIC,50.95
+Mornington Peninsula,VIC,724.07
+Mount Alexander,VIC,1529.62
+Moyne,VIC,5481.75
+Murrindindi,VIC,3879.4
+Nillumbik,VIC,432.34
+Northern Grampians,VIC,5728.0
+Port Phillip,VIC,20.7
+Pyrenees,VIC,3434.57
+Queenscliffe,VIC,8.62
+South Gippsland,VIC,3297.35
+Southern Grampians,VIC,6655.43
+Stonnington,VIC,25.65
+Strathbogie,VIC,3303.26
+Surf Coast,VIC,1552.94
+Swan Hill,VIC,6115.31
+Towong,VIC,6674.95
+Wangaratta,VIC,3644.84
+Warrnambool,VIC,120.85
+Wellington,VIC,10817.37
+West Wimmera,VIC,9108.39
+Whitehorse,VIC,64.28
+Whittlesea,VIC,489.71
+Wodonga,VIC,432.69
+Wyndham,VIC,542.09
+Yarra,VIC,19.54
+Yarra Ranges,VIC,2465.74
+Yarriambiack,VIC,7325.8
+Unincorporated Vic,VIC,0.0
+Aurukun,QLD,7347.21
+Balonne,QLD,31106.18
+Banana,QLD,28546.31
+Barcaldine,QLD,53520.67
+Barcoo,QLD,61825.01
+Blackall Tambo,QLD,30389.06
+Boulia,QLD,60955.81
+Brisbane,QLD,1338.09
+Bulloo,QLD,73762.8
+Bundaberg,QLD,6435.64
+Burdekin,QLD,5043.42
+Burke,QLD,40039.21
+Cairns,QLD,4115.11
+Carpentaria,QLD,64124.9
+Cassowary Coast,QLD,4684.99
+Central Highlands,QLD,59834.89
+Charters Towers,QLD,68373.55
+Cherbourg,QLD,31.6
+Cloncurry,QLD,47983.13
+Cook,QLD,105781.46
+Croydon,QLD,29487.1
+Diamantina,QLD,94666.85
+Doomadgee,QLD,1835.16
+Etheridge,QLD,39201.02
+Flinders,QLD,41192.67
+Fraser Coast,QLD,7102.5
+Gladstone,QLD,10465.79
+Gold Coast,QLD,1331.68
+Goondiwindi,QLD,19255.49
+Gympie,QLD,6884.54
+Hinchinbrook,QLD,2801.35
+Hope Vale,QLD,1104.75
+Ipswich,QLD,1088.49
+Isaac,QLD,58719.84
+Kowanyama,QLD,2543.17
+Lockhart River,QLD,3578.06
+Lockyer Valley,QLD,2268.74
+Logan,QLD,958.1
+Longreach,QLD,40571.71
+Mackay,QLD,7601.2
+McKinlay,QLD,40733.71
+Mapoon,QLD,547.99
+Maranoa,QLD,58711.36
+Moreton Bay,QLD,2033.3
+Mornington,QLD,1244.21
+Mount Isa,QLD,43188.04
+Murweh,QLD,40698.49
+Napranum,QLD,1997.91
+North Burnett,QLD,19666.77
+Northern Peninsula Area,QLD,1056.91
+Palm Island,QLD,70.63
+Paroo,QLD,47616.41
+Pormpuraaw,QLD,4428.84
+Quilpie,QLD,67423.31
+Redland,QLD,536.25
+Richmond,QLD,26580.22
+Rockhampton,QLD,18311.74
+Scenic Rim,QLD,4248.07
+Somerset,QLD,5373.28
+South Burnett,QLD,8381.7
+Southern Downs,QLD,7111.72
+Sunshine Coast,QLD,3120.71
+Tablelands,QLD,64793.81
+Toowoomba,QLD,12957.73
+Torres,QLD,882.71
+Torres Strait Island,QLD,489.24
+Townsville,QLD,3727.38
+Weipa,QLD,10.82
+Western Downs,QLD,37938.49
+Whitsunday,QLD,23804.38
+Winton,QLD,53814.39
+Woorabinda,QLD,390.28
+Wujal Wujal,QLD,11.18
+Yarrabah,QLD,158.84
+Unincorporated Qld,QLD,0.0
+Adelaide,SA,15.57
+Adelaide Hills,SA,794.49
+Alexandrina,SA,1827.26
+Anangu Pitjantjatjara,SA,102320.48
+Barossa,SA,893.55
+Barunga West,SA,1590.39
+Berri and Barmera,SA,516.81
+Burnside,SA,27.52
+Campbelltown,SA,24.35
+Ceduna,SA,5420.14
+Charles Sturt,SA,54.79
+Clare and Gilbert Valleys,SA,1892.45
+Cleve,SA,4505.53
+Coober Pedy,SA,77.68
+Copper Coast,SA,772.91
+Elliston,SA,6738.54
+Flinders Ranges,SA,4126.4
+Franklin Harbour,SA,3268.88
+Gawler,SA,41.09
+Goyder,SA,6716.02
+Grant,SA,1898.0
+Holdfast Bay,SA,13.75
+Kangaroo Island,SA,4400.73
+Karoonda East Murray,SA,4415.8
+Kimba,SA,3983.95
+Kingston,SA,3339.79
+Light,SA,1276.84
+Lower Eyre Peninsula,SA,4721.19
+Loxton Waikerie,SA,7999.29
+Mallala,SA,932.42
+Maralinga Tjarutja,SA,102737.81
+Marion,SA,55.64
+Mid Murray,SA,6271.38
+Mitcham,SA,75.55
+Mount Barker,SA,594.65
+Mount Gambier,SA,33.89
+Mount Remarkable,SA,3422.77
+Murray Bridge,SA,1831.76
+Naracoorte and Lucindale,SA,4520.13
+Northern Areas,SA,2986.18
+Norwood Payneham St Peters,SA,15.1
+Onkaparinga,SA,518.12
+Orroroo/Carrieton,SA,3321.82
+Peterborough,SA,3020.02
+Playford,SA,344.93
+Port Adelaide Enfield,SA,91.75
+Port Augusta,SA,1152.07
+Port Lincoln,SA,30.37
+Port Pirie City and Dists,SA,1760.71
+Prospect,SA,7.79
+Renmark Paringa,SA,915.87
+Robe,SA,1091.61
+Roxby Downs,SA,109.91
+Salisbury,SA,158.04
+Southern Mallee,SA,5702.21
+Streaky Bay,SA,6247.03
+Tatiara,SA,6527.2
+Tea Tree Gully,SA,95.21
+The Coorong,SA,8832.45
+Tumby Bay,SA,2669.06
+Unley,SA,14.27
+Victor Harbor,SA,384.62
+Wakefield,SA,3468.49
+Walkerville,SA,3.53
+Wattle Range,SA,3926.34
+West Torrens,SA,37.04
+Whyalla,SA,1032.35
+Wudinna,SA,5393.92
+Yankalilla,SA,751.26
+Yorke Peninsula,SA,5899.61
+Unincorporated SA,SA,0.0
+Albany,WA,4309.94
+Armadale,WA,559.92
+Ashburton,WA,100959.26
+Augusta-Margaret River,WA,2122.42
+Bassendean,WA,10.34
+Bayswater,WA,32.77
+Belmont,WA,39.68
+Beverley,WA,2370.52
+Boddington,WA,1899.37
+Boyup Brook,WA,2826.5
+Bridgetown-Greenbushes,WA,1339.38
+Brookton,WA,1601.15
+Broome,WA,54631.8
+Broomehill-Tambellup,WA,2609.13
+Bruce Rock,WA,2724.71
+Bunbury,WA,65.23
+Busselton,WA,1454.01
+Cambridge,WA,21.99
+Canning,WA,64.9
+Capel,WA,557.81
+Carnamah,WA,2872.95
+Carnarvon,WA,46562.24
+Chapman Valley,WA,3982.58
+Chittering,WA,1219.9
+Claremont,WA,4.96
+Cockburn,WA,167.94
+Collie,WA,1710.02
+Coolgardie,WA,30353.9
+Coorow,WA,4188.83
+Corrigin,WA,2680.6
+Cottesloe,WA,3.86
+Cranbrook,WA,3277.47
+Cuballing,WA,1194.95
+Cue,WA,13584.88
+Cunderdin,WA,1862.45
+Dalwallinu,WA,7227.22
+Dandaragan,WA,6711.49
+Dardanup,WA,525.92
+Denmark,WA,1859.9
+Derby-West Kimberley,WA,119841.85
+Donnybrook-Balingup,WA,1559.97
+Dowerin,WA,1863.08
+Dumbleyung,WA,2541.27
+Dundas,WA,92587.22
+East Fremantle,WA,3.14
+East Pilbara,WA,371244.04
+Esperance,WA,45038.79
+Exmouth,WA,6488.07
+Fremantle,WA,19.01
+Geraldton-Greenough,WA,1778.72
+Gingin,WA,3208.44
+Gnowangerup,WA,4265.57
+Goomalling,WA,1835.43
+Gosnells,WA,127.2
+Halls Creek,WA,133061.38
+Harvey,WA,1727.88
+Irwin,WA,2371.96
+Jerramungup,WA,6507.48
+Joondalup,WA,98.93
+Kalamunda,WA,324.2
+Kalgoorlie/Boulder,WA,95151.53
+Katanning,WA,1518.29
+Kellerberrin,WA,1915.58
+Kent,WA,5630.11
+Kojonup,WA,2931.14
+Kondinin,WA,7422.09
+Koorda,WA,2832.35
+Kulin,WA,4716.86
+Kwinana,WA,120.01
+Lake Grace,WA,11885.83
+Laverton,WA,179892.18
+Leonora,WA,31893.21
+Mandurah,WA,174.23
+Manjimup,WA,7025.75
+Meekatharra,WA,100120.81
+Melville,WA,52.82
+Menzies,WA,124577.15
+Merredin,WA,3294.39
+Mingenew,WA,1934.86
+Moora,WA,3762.98
+Morawa,WA,3512.55
+Mosman Park,WA,4.35
+Mount Magnet,WA,13872.89
+Mount Marshall,WA,10185.92
+Mukinbudin,WA,3434.99
+Mullewa,WA,8110.4
+Mundaring,WA,643.25
+Murchison,WA,45030.17
+Murray,WA,1710.05
+Nannup,WA,3053.71
+Narembeen,WA,3833.25
+Narrogin,WA,1618.35
+Narrogin,WA,13.13
+Nedlands,WA,19.95
+Ngaanyatjarraku,WA,160378.07
+Northam,WA,1431.22
+Northampton,WA,12617.68
+Nungarin,WA,1163.01
+Peppermint Grove,WA,1.07
+Perenjori,WA,8300.45
+Perth,WA,12.02
+Pingelly,WA,1294.05
+Plantagenet,WA,4876.47
+Port Hedland,WA,18431.11
+Quairading,WA,2016.93
+Ravensthorpe,WA,9829.0
+Rockingham,WA,256.89
+Roebourne,WA,15235.8
+Sandstone,WA,32666.49
+Serpentine-Jarrahdale,WA,904.07
+Shark Bay,WA,24140.16
+South Perth,WA,19.81
+Stirling,WA,104.73
+Subiaco,WA,6.98
+Swan,WA,1043.22
+Tammin,WA,1101.69
+Three Springs,WA,2652.91
+Toodyay,WA,1691.65
+Trayning,WA,1650.94
+Upper Gascoyne,WA,57883.43
+Victoria Park,WA,17.93
+Victoria Plains,WA,2550.94
+Vincent,WA,11.38
+Wagin,WA,1945.73
+Wandering,WA,1899.62
+Wanneroo,WA,685.06
+Waroona,WA,831.85
+West Arthur,WA,2832.65
+Westonia,WA,3314.01
+Wickepin,WA,2039.84
+Williams,WA,2304.48
+Wiluna,WA,181294.37
+Wongan-Ballidu,WA,3365.07
+Woodanilling,WA,1128.35
+Wyalkatchem,WA,1594.35
+Wyndham-East Kimberley,WA,112022.82
+Yalgoo,WA,27936.35
+Yilgarn,WA,30376.34
+York,WA,2131.59
+Unincorporated WA,WA,0.0
+Break O'Day,TAS,3525.77
+Brighton,TAS,171.26
+Burnie,TAS,610.95
+Central Coast,TAS,933.09
+Central Highlands,TAS,7982.42
+Circular Head,TAS,4897.65
+Clarence,TAS,377.95
+Derwent Valley,TAS,4108.11
+Devonport,TAS,111.26
+Dorset,TAS,3227.6
+Flinders,TAS,1996.62
+George Town,TAS,653.44
+Glamorgan/Spring Bay,TAS,2591.35
+Glenorchy,TAS,121.15
+Hobart,TAS,77.91
+Huon Valley,TAS,5507.36
+Kentish,TAS,1155.97
+King Island,TAS,1095.76
+Kingborough,TAS,720.1
+Latrobe,TAS,600.46
+Launceston,TAS,1413.62
+Meander Valley,TAS,3330.34
+Northern Midlands,TAS,5136.5
+Sorell,TAS,583.68
+Southern Midlands,TAS,2615.42
+Tasman,TAS,660.5
+Waratah/Wynyard,TAS,3531.04
+West Coast,TAS,9589.78
+West Tamar,TAS,691.14
+Unincorporated Tas,TAS,0.0
+Alice Springs,NT,327.51
+Barkly,NT,322788.84
+Belyuen,NT,41.41
+Central Desert,NT,281311.38
+Coomalie,NT,1507.85
+Darwin,NT,111.51
+East Arnhem,NT,33295.6
+Katherine,NT,7416.64
+Litchfield,NT,2903.19
+MacDonnell,NT,268336.61
+Palmerston,NT,52.65
+Roper Gulf,NT,185286.63
+Tiwi Islands,NT,7462.57
+Victoria-Daly,NT,167323.55
+Wagait,NT,5.63
+West Arnhem,NT,49692.48
+Unincorporated NT,NT,0.0
+Unincorporated ACT,ACT,0.0
+Unincorp. Other Territories,OT,0.0

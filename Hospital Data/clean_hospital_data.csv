@@ -1,0 +1,697 @@
+State,Hospital name,Suburb,Postcode,Local Hospital Network identifier,Local Hospital Network,Remoteness area,Number of available beds,Peer Group Name
+ACT,Calvary Health Care Bruce,Bruce,2617,801,Australian Capital Territory,Major Cities,303.0,Public acute group A
+ACT,Canberra Hospital,Garran,2605,801,Australian Capital Territory,Major Cities,781.0,Principal referral
+ACT,QEII Family Centre,Curtin,2605,801,Australian Capital Territory,Major Cities,26.0,Early parenting centres
+NSW,Armidale,Armidale,2350,109,Hunter New England,Inner Regional,94.0,Public acute group B
+NSW,Auburn,Auburn,2144,104,Western Sydney,Major Cities,124.2,Public acute group B
+NSW,Ballina,Ballina,2478,111,Northern NSW,Inner Regional,71.3,Public acute group C
+NSW,Balmain,Balmain,2041,102,Sydney,Major Cities,63.6,Public acute group D
+NSW,Balranald (MPS),Balranald,2715,115,Far West,Outer Regional,23.9,Public acute group D
+NSW,Bankstown/ Lidcombe,Bankstown,2200,103,South Western Sydney,Major Cities,388.3,Public acute group A
+NSW,Baradine (MPS),Baradine,2396,112,Western NSW,Remote,18.0,Public acute group D
+NSW,Barham Koondrook,Barham,2732,114,Murrumbidgee,Outer Regional,6.0,Public acute group D
+NSW,Barraba (MPS),Barraba,2347,109,Hunter New England,Outer Regional,22.0,Public acute group D
+NSW,Batemans Bay,Bay,2536,113,Southern NSW,Inner Regional,35.0,Public acute group C
+NSW,Bathurst,Bathurst,2795,112,Western NSW,Inner Regional,112.8,Public acute group A
+NSW,Batlow/Adelong (MPS),Batlow,2730,114,Murrumbidgee,Outer Regional,24.0,Very small
+NSW,Bega,Bega,2550,113,Southern NSW,Outer Regional,90.0,Public acute group B
+NSW,Bellinger River,Bellingen,2454,110,Mid North Coast,Outer Regional,39.2,Public acute group C
+NSW,Belmont,Belmont,2280,109,Hunter New England,Major Cities,117.9,Public acute group B
+NSW,Berrigan (MPS),Berrigan,2712,114,Murrumbidgee,Outer Regional,14.0,Public acute group D
+NSW,Bingara (MPS),Bingara,2404,109,Hunter New England,Outer Regional,20.8,Public acute group D
+NSW,Blacktown,Blacktown,2148,104,Western Sydney,Major Cities,415.1,Public acute group A
+NSW,Blayney (MPS),Blayney,2799,112,Western NSW,Inner Regional,25.2,Very small
+NSW,Blue Mountains,Katoomba,2780,105,Nepean Blue Mountains,Major Cities,91.1,Public acute group C
+NSW,Boggabri (MPS),Boggabri,2382,109,Hunter New England,Outer Regional,20.0,Very small
+NSW,Bombala (MPS),Bombala,2632,113,Southern NSW,Outer Regional,18.0,Public acute group D
+NSW,Bonalbo,Bonalbo,2469,111,Northern NSW,Outer Regional,0.0,Public acute group D
+NSW,Boorowa (MPS),Boorowa,2586,114,Murrumbidgee,Inner Regional,18.0,Public acute group D
+NSW,Bourke (MPS),Bourke,2840,112,Western NSW,Very remote,32.1,Public acute group D
+NSW,Bourke Street Health Service,Goulburn,2580,113,Southern NSW,Inner Regional,42.6,Mixed subacute and non-acute
+NSW,Bowral,Bowral,2576,103,South Western Sydney,Inner Regional,71.0,Public acute group B
+NSW,Braeside,Prairiewood,2176,103,South Western Sydney,Major Cities,71.0,Mixed subacute and non-acute
+NSW,Braidwood (MPS),Braidwood,2622,113,Southern NSW,Inner Regional,30.6,Public acute group D
+NSW,Brewarrina (MPS),Brewarrina,2839,112,Western NSW,Very remote,20.0,Public acute group D
+NSW,Broken Hill,Hill,2880,115,Far West,Outer Regional,121.2,Public acute group B
+NSW,Bulahdelah - Myall Lakes,Bulahdelah,2423,109,Hunter New England,Inner Regional,0.0,Very small
+NSW,Bulli,Bulli,2516,108,Illawarra Shoalhaven,Major Cities,52.7,Public acute group C
+NSW,Byron Central Hospital,Bay,2481,111,Northern NSW,Inner Regional,33.2,Public acute group C
+NSW,Calvary,Kogarah,2217,101,South Eastern Sydney,Major Cities,109.0,Rehabilitation and GEM
+NSW,Calvary Mater Newcastle,Waratah,2298,109,Hunter New England,Major Cities,186.2,Public acute group A
+NSW,Camden,Camden,2570,103,South Western Sydney,Major Cities,56.6,Public acute group D
+NSW,Campbell Coraki,Coraki,2471,111,Northern NSW,Inner Regional,0.0,Very small
+NSW,Campbelltown,Campbelltown,2560,103,South Western Sydney,Major Cities,411.3,Public acute group A
+NSW,Canowindra,Canowindra,2804,112,Western NSW,Inner Regional,10.2,Public acute group D
+NSW,Canterbury,Campsie,2194,102,Sydney,Major Cities,169.7,Public acute group B
+NSW,Casino,Casino,2470,111,Northern NSW,Inner Regional,26.0,Public acute group C
+NSW,Cessnock,Cessnock,2325,109,Hunter New England,Inner Regional,48.5,Public acute group C
+NSW,Children's Hospital Westmead,Westmead,2145,117,Sydney Children's Hospitals Network,Major Cities,278.6,Childrens
+NSW,Cobar,Cobar,2835,112,Western NSW,Remote,10.0,Public acute group D
+NSW,Coffs Harbour,Harbour,2450,110,Mid North Coast,Inner Regional,268.9,Public acute group A
+NSW,Coledale,Coledale,2515,108,Illawarra Shoalhaven,Major Cities,38.0,Mixed subacute and non-acute
+NSW,Collarenebri (MPS),Collarenebri,2833,112,Western NSW,Remote,13.0,Very small
+NSW,Concord,West,2139,102,Sydney,Major Cities,678.7,Principal referral
+NSW,Condobolin,Condobolin,2877,112,Western NSW,Outer Regional,22.0,Public acute group D
+NSW,Coolah (MPS),Coolah,2843,112,Western NSW,Outer Regional,26.9,Public acute group D
+NSW,Coolamon (MPS),Coolamon,2701,114,Murrumbidgee,Inner Regional,14.1,Public acute group D
+NSW,Cooma HS,Cooma,2630,113,Southern NSW,Inner Regional,35.7,Public acute group C
+NSW,Coonabarabran,Coonabarabran,2357,112,Western NSW,Outer Regional,16.6,Public acute group D
+NSW,Coonamble (MPS),Coonamble,2829,112,Western NSW,Remote,22.9,Public acute group D
+NSW,Cootamundra,Cootamundra,2590,114,Murrumbidgee,Inner Regional,24.5,Public acute group C
+NSW,Coral Tree Family Centre,Ryde,2113,106,Northern Sydney,Major Cities,10.1,Psychiatric
+NSW,Corowa (MPS),Corowa,2646,114,Murrumbidgee,Inner Regional,50.5,Public acute group C
+NSW,Cowra,Cowra,2794,112,Western NSW,Inner Regional,37.6,Public acute group C
+NSW,Crookwell,Crookwell,2583,113,Southern NSW,Inner Regional,18.0,Public acute group D
+NSW,Culcairn (MPS),Culcairn,2660,114,Murrumbidgee,Inner Regional,27.0,Public acute group D
+NSW,Cumberland,Westmead,2145,104,Western Sydney,Major Cities,310.0,Psychiatric
+NSW,David Berry,Berry,2535,108,Illawarra Shoalhaven,Inner Regional,26.0,Mixed subacute and non-acute
+NSW,Delegate (MPS),Delegate,2633,113,Southern NSW,Outer Regional,13.1,Very small
+NSW,Deniliquin,Deniliquin,2710,114,Murrumbidgee,Inner Regional,35.1,Public acute group C
+NSW,Denman (MPS),Denman,2328,109,Hunter New England,Inner Regional,17.0,Very small
+NSW,Dorrigo (MPS),Dorrigo,2453,110,Mid North Coast,Outer Regional,26.9,Public acute group D
+NSW,Dubbo,Dubbo,2830,112,Western NSW,Inner Regional,160.5,Public acute group A
+NSW,Dunedoo (MPS),Dunedoo,2844,112,Western NSW,Outer Regional,29.9,Very small
+NSW,Dungog,Dungog,2420,109,Hunter New England,Inner Regional,15.0,Public acute group D
+NSW,Eugowra (MPS),Eugowra,2806,112,Western NSW,Outer Regional,14.0,Very small
+NSW,Fairfield,Prairiewood,2176,103,South Western Sydney,Major Cities,199.9,Public acute group B
+NSW,Finley,Finley,2713,114,Murrumbidgee,Inner Regional,15.6,Public acute group D
+NSW,Forbes,Forbes,2871,112,Western NSW,Outer Regional,29.2,Public acute group C
+NSW,Gilgandra (MPS),Gilgandra,2827,112,Western NSW,Outer Regional,31.0,Public acute group D
+NSW,Glen Innes,Innes,2370,109,Hunter New England,Outer Regional,31.3,Public acute group C
+NSW,Gloucester,Gloucester,2422,109,Hunter New England,Inner Regional,81.0,Public acute group C
+NSW,Goodooga,Goodooga,2831,112,Western NSW,Very remote,0.0,Outpatient hospital
+NSW,Gosford,Gosford,2250,107,Central Coast,Major Cities,482.0,Public acute group A
+NSW,Goulburn,Goulburn,2580,113,Southern NSW,Inner Regional,134.8,Public acute group B
+NSW,Gower Wilson (MPS),Island,2898,101,South Eastern Sydney,Very remote,0.0,Very small
+NSW,Grafton,Grafton,2460,111,Northern NSW,Inner Regional,95.3,Public acute group B
+NSW,Greenwich,Greenwich,2065,106,Northern Sydney,Major Cities,38.4,Mixed subacute and non-acute
+NSW,Grenfell (MPS),Grenfell,2810,112,Western NSW,Outer Regional,42.8,Very small
+NSW,Griffith,Griffith,2680,114,Murrumbidgee,Outer Regional,89.6,Public acute group A
+NSW,Gulargambone (MPS),Gulargambone,2828,112,Western NSW,Outer Regional,12.0,Very small
+NSW,Gulgong (MPS),Gulgong,2852,112,Western NSW,Outer Regional,0.0,Outpatient hospital
+NSW,Gundagai (MPS),Gundagai,2722,114,Murrumbidgee,Inner Regional,30.0,Public acute group D
+NSW,Gunnedah,Gunnedah,2380,109,Hunter New England,Outer Regional,35.5,Public acute group C
+NSW,Guyra (MPS),Guyra,2365,109,Hunter New England,Outer Regional,22.0,Public acute group D
+NSW,Hawkesbury,Windsor,2756,105,Nepean Blue Mountains,Major Cities,96.8,Public acute group B
+NSW,Hay,Hay,2711,114,Murrumbidgee,Outer Regional,28.0,Public acute group D
+NSW,Henty (MPS),Henty,2658,114,Murrumbidgee,Inner Regional,15.0,Very small
+NSW,Hillston (MPS),Hillston,2675,114,Murrumbidgee,Remote,5.0,Public acute group D
+NSW,Holbrook (MPS),Holbrook,2644,114,Murrumbidgee,Inner Regional,24.6,Public acute group D
+NSW,Hornsby and Ku-Ring-Gai,Hornsby,2077,106,Northern Sydney,Major Cities,273.3,Public acute group A
+NSW,Hunter New England Mater Mental Health S,Newcastle,2300,109,Hunter New England,Major Cities,119.5,Psychiatric
+NSW,Illawarra Mental Health Services,Square,2529,108,Illawarra Shoalhaven,Major Cities,0.0,Unpeered
+NSW,Inverell,Inverell,2360,109,Hunter New England,Outer Regional,43.6,Public acute group C
+NSW,Ivanhoe,Ivanhoe,2878,115,Far West,Very remote,0.0,Outpatient hospital
+NSW,Jerilderie (MPS),Jerilderie,2716,114,Murrumbidgee,Outer Regional,15.0,Public acute group D
+NSW,John Hunter,Heights,2305,109,Hunter New England,Major Cities,820.7,Principal referral
+NSW,Junee (MPS),Junee,2663,114,Murrumbidgee,Inner Regional,37.0,Public acute group D
+NSW,Justice Health,Malabar,2036,119,Justice Health & Forensic Mental Health,Major Cities,345.9,Psychiatric
+NSW,Karitane Mothercraft Society,Carramar,2163,103,South Western Sydney,Major Cities,18.6,Early parenting centres
+NSW,Kenmore,Goulburn,2580,113,Southern NSW,Inner Regional,28.9,Psychiatric
+NSW,Kiama,Kiama,2533,108,Illawarra Shoalhaven,Inner Regional,17.9,Mixed subacute and non-acute
+NSW,Kurri Kurri,Kurri,2327,109,Hunter New England,Major Cities,50.9,Public acute group C
+NSW,Kyogle (MPS),Kyogle,2474,111,Northern NSW,Inner Regional,40.0,Public acute group D
+NSW,Lake Cargelligo (MPS),Cargelligo,2672,114,Murrumbidgee,Remote,21.9,Public acute group D
+NSW,Leeton,Leeton,2705,114,Murrumbidgee,Outer Regional,63.0,Public acute group C
+NSW,Lightning Ridge (MPS),Ridge,2834,112,Western NSW,Remote,24.0,Public acute group D
+NSW,Lismore,Lismore,2480,111,Northern NSW,Inner Regional,251.5,Public acute group A
+NSW,Lithgow,Lithgow,2790,105,Nepean Blue Mountains,Inner Regional,89.5,Public acute group C
+NSW,Liverpool,Liverpool,2170,103,South Western Sydney,Major Cities,791.1,Principal referral
+NSW,Lockhart (MPS),Lockhart,2656,114,Murrumbidgee,Outer Regional,5.1,Public acute group D
+NSW,Long Jetty,Jetty,2261,107,Central Coast,Major Cities,20.3,Mixed subacute and non-acute
+NSW,Lourdes Dubbo,Dubbo,2830,112,Western NSW,Inner Regional,28.8,Rehabilitation and GEM
+NSW,Macksville,Macksville,2447,110,Mid North Coast,Outer Regional,44.2,Public acute group C
+NSW,Maclean,Maclean,2463,111,Northern NSW,Inner Regional,39.2,Public acute group C
+NSW,Macleay Valley - Kempsey,Kempsey,2440,110,Mid North Coast,Inner Regional,74.2,Public acute group B
+NSW,Macquarie,Ryde,2113,106,Northern Sydney,Major Cities,193.8,Psychiatric
+NSW,Maitland,Maitland,2320,109,Hunter New England,Major Cities,174.9,Public acute group B
+NSW,Manilla (MPS),Manilla,2346,109,Hunter New England,Outer Regional,52.0,Public acute group D
+NSW,Manly,Manly,2095,106,Northern Sydney,Major Cities,138.2,Public acute group A
+NSW,Manning,Taree,2430,109,Hunter New England,Inner Regional,185.5,Public acute group A
+NSW,Menindee Health Service,Menindee,2879,115,Far West,Very remote,0.0,Outpatient hospital
+NSW,Mercy Care Centre Albury,Albury,2640,114,Murrumbidgee,Inner Regional,30.0,Mixed subacute and non-acute
+NSW,Mercy Care Centre Young,Young,2594,114,Murrumbidgee,Inner Regional,26.0,Mixed subacute and non-acute
+NSW,Merriwa (MPS),Merriwa,2329,109,Hunter New England,Outer Regional,22.8,Very small
+NSW,Milton and Ulladulla,Milton,2538,108,Illawarra Shoalhaven,Inner Regional,25.8,Public acute group C
+NSW,Molong,Molong,2866,112,Western NSW,Inner Regional,10.5,Public acute group D
+NSW,Mona Vale,Vale,2103,106,Northern Sydney,Major Cities,167.6,Public acute group A
+NSW,Moree,Moree,2400,109,Hunter New England,Outer Regional,37.6,Public acute group C
+NSW,Morisset,Morisset,2264,109,Hunter New England,Major Cities,128.6,Psychiatric
+NSW,Moruya,Moruya,2537,113,Southern NSW,Inner Regional,54.8,Public acute group C
+NSW,Mount Druitt,Druitt,2770,104,Western Sydney,Major Cities,130.9,Public acute group B
+NSW,Mudgee,Mudgee,2850,112,Western NSW,Inner Regional,29.5,Public acute group C
+NSW,Mullumbimby,Mullumbimby,2482,111,Northern NSW,Inner Regional,0.0,Public acute group C
+NSW,Murrumburrah - Harden (MPS),Harden,2587,114,Murrumbidgee,Inner Regional,33.0,Public acute group D
+NSW,Murrurundi,Murrurundi,2338,109,Hunter New England,Outer Regional,18.0,Public acute group D
+NSW,Murwillumbah,Murwillumbah,2484,111,Northern NSW,Inner Regional,62.9,Public acute group C
+NSW,Muswellbrook,Muswellbrook,2333,109,Hunter New England,Inner Regional,54.3,Public acute group C
+NSW,Narrabri,Narrabri,2390,109,Hunter New England,Outer Regional,30.0,Public acute group C
+NSW,Narrandera,Narrandera,2700,114,Murrumbidgee,Outer Regional,20.1,Public acute group C
+NSW,Narromine,Narromine,2821,112,Western NSW,Outer Regional,24.8,Public acute group D
+NSW,Nepean,Kingswood,2747,105,Nepean Blue Mountains,Major Cities,591.2,Principal referral
+NSW,Neringah,South,2076,106,Northern Sydney,Major Cities,15.0,Mixed subacute and non-acute
+NSW,Nimbin (MPS),Nimbin,2480,111,Northern NSW,Inner Regional,13.6,Very small
+NSW,Nyngan (MPS),Nyngan,2825,112,Western NSW,Remote,42.0,Public acute group D
+NSW,Oberon (MPS),Oberon,2787,112,Western NSW,Inner Regional,18.0,Public acute group D
+NSW,Orange Health Service,Orange,2800,112,Western NSW,Inner Regional,318.4,Public acute group A
+NSW,Pambula,Pambula,2549,113,Southern NSW,Outer Regional,29.8,Public acute group D
+NSW,Parkes,Parkes,2870,112,Western NSW,Outer Regional,29.6,Public acute group C
+NSW,Peak Hill,Hill,2869,112,Western NSW,Outer Regional,4.0,Very small
+NSW,Port Kembla,Warrawong,2502,108,Illawarra Shoalhaven,Major Cities,57.3,Mixed subacute and non-acute
+NSW,Port Macquarie,Macquarie,2444,110,Mid North Coast,Inner Regional,200.3,Public acute group A
+NSW,Portland,Portland,2847,105,Nepean Blue Mountains,Inner Regional,26.0,Very small
+NSW,Prince Albert Tenterfield,Tenterfield,2372,109,Hunter New England,Outer Regional,18.0,Public acute group D
+NSW,Prince of Wales,Randwick,2031,101,South Eastern Sydney,Major Cities,493.6,Principal referral
+NSW,Queanbeyan,Queanbeyan,2620,113,Southern NSW,Major Cities,56.7,Public acute group C
+NSW,Quirindi,Quirindi,2343,109,Hunter New England,Outer Regional,20.0,Public acute group D
+NSW,RPAH Institute of Rheumatology & Orthopa,Camperdown,2050,102,Sydney,Major Cities,24.5,Other public acute specialised
+NSW,Riverlands Drug and Alcohol Centre,Lismore,2480,111,Northern NSW,Inner Regional,14.0,Drug and alcohol hospital
+NSW,Royal For Women,Randwick,2031,101,South Eastern Sydney,Major Cities,121.0,Womens
+NSW,Royal North Shore,Leonards,2065,106,Northern Sydney,Major Cities,721.3,Principal referral
+NSW,Royal Prince Alfred,Camperdown,2050,102,Sydney,Major Cities,762.3,Principal referral
+NSW,Royal Rehabilitation,Ryde,2112,106,Northern Sydney,Major Cities,48.0,Rehabilitation and GEM
+NSW,Ryde,Eastwood,2122,106,Northern Sydney,Major Cities,160.2,Public acute group B
+NSW,Rylstone (MPS),Rylstone,2849,112,Western NSW,Outer Regional,26.0,Public acute group D
+NSW,Scott Memorial Scone,Scone,2337,109,Hunter New England,Inner Regional,39.7,Public acute group C
+NSW,Shellharbour,Warrigal,2528,108,Illawarra Shoalhaven,Major Cities,179.8,Public acute group B
+NSW,Shoalhaven Memorial,Nowra,2541,108,Illawarra Shoalhaven,Inner Regional,178.3,Public acute group A
+NSW,Singleton,Singleton,2330,109,Hunter New England,Inner Regional,45.2,Public acute group C
+NSW,Springwood,Springwood,2777,105,Nepean Blue Mountains,Major Cities,30.6,Public acute group C
+NSW,St George,Kogarah,2217,101,South Eastern Sydney,Major Cities,610.6,Principal referral
+NSW,St Joseph's Auburn,Auburn,2144,118,St Vincent's Health Network,Major Cities,71.7,Mixed subacute and non-acute
+NSW,St Vincent's Darlinghurst,Darlinghurst,2010,118,St Vincent's Health Network,Major Cities,423.1,Principal referral
+NSW,Sutherland,Caringbah,2229,101,South Eastern Sydney,Major Cities,314.4,Public acute group A
+NSW,Sydney Children's,Randwick,2031,117,Sydney Children's Hospitals Network,Major Cities,145.8,Childrens
+NSW,Sydney Dental,Hills,2010,101,South Eastern Sydney,Major Cities,0.0,Unpeered
+NSW,Sydney/ Sydney Eye,Sydney,2000,101,South Eastern Sydney,Major Cities,60.9,Public acute group B
+NSW,Tamworth,Tamworth,2340,109,Hunter New England,Inner Regional,279.2,Public acute group A
+NSW,Temora,Temora,2666,114,Murrumbidgee,Outer Regional,27.8,Public acute group C
+NSW,The Tweed Hospital,Heads,2485,111,Northern NSW,Major Cities,242.0,Public acute group A
+NSW,Thomas Walker,Hospital,2139,102,Sydney,Major Cities,16.4,Psychiatric
+NSW,Tibooburra,Tibooburra,2880,115,Far West,Very remote,0.0,Outpatient hospital
+NSW,Tingha (MPS),Tingha,2369,109,Hunter New England,Outer Regional,9.0,Outpatient hospital
+NSW,Tocumwal,Tocumwal,2714,114,Murrumbidgee,Inner Regional,5.4,Public acute group D
+NSW,Tomaree Community,Bay,2315,109,Hunter New England,Inner Regional,10.8,Public acute group D
+NSW,Tottenham (MPS),Tottenham,2873,112,Western NSW,Remote,10.0,Very small
+NSW,Trangie (MPS),Trangie,2823,112,Western NSW,Outer Regional,19.9,Very small
+NSW,Tresillian Care Centres,Campsie,2194,102,Sydney,Major Cities,70.6,Early parenting centres
+NSW,Trundle (MPS),Trundle,2875,112,Western NSW,Outer Regional,11.0,Very small
+NSW,Tullamore (MPS),Tullamore,2874,112,Western NSW,Outer Regional,15.9,Very small
+NSW,Tumbarumba (MPS),Tumbarumba,2653,114,Murrumbidgee,Outer Regional,42.7,Public acute group D
+NSW,Tumut,Tumut,2720,114,Murrumbidgee,Inner Regional,28.6,Public acute group C
+NSW,Urana (MPS),Urana,2645,114,Murrumbidgee,Outer Regional,22.0,Very small
+NSW,Urbenville (MPS),Urbenville,2475,111,Northern NSW,Outer Regional,22.0,Very small
+NSW,Vegetable Creek (MPS),Emmaville,2371,109,Hunter New England,Outer Regional,17.0,Very small
+NSW,Wagga Wagga,Wagga,2650,114,Murrumbidgee,Inner Regional,298.2,Public acute group A
+NSW,Walcha (MPS),Walcha,2354,109,Hunter New England,Outer Regional,24.0,Public acute group D
+NSW,Walgett (MPS),Walgett,2832,112,Western NSW,Remote,14.8,Public acute group D
+NSW,Warialda (MPS),Warialda,2402,109,Hunter New England,Outer Regional,25.0,Public acute group D
+NSW,Warren (MPS),Warren,2824,112,Western NSW,Outer Regional,39.5,Public acute group D
+NSW,Wauchope,Wauchope,2446,110,Mid North Coast,Inner Regional,27.9,Public acute group C
+NSW,Waverley War Memorial,Waverley,2024,101,South Eastern Sydney,Major Cities,35.0,Rehabilitation and GEM
+NSW,Wee Waa,Waa,2388,109,Hunter New England,Outer Regional,14.8,Public acute group D
+NSW,Wellington,Wellington,2820,112,Western NSW,Outer Regional,17.0,Public acute group D
+NSW,Wentworth,Wentworth,2648,115,Far West,Outer Regional,15.7,Very small
+NSW,Wentworth Psychiatric Services,Penrith,2750,105,Nepean Blue Mountains,Major Cities,11.0,Unpeered
+NSW,Werris Creek (MPS),Creek,2341,109,Hunter New England,Inner Regional,15.8,Very small
+NSW,Westmead,Westmead,2145,104,Western Sydney,Major Cities,835.9,Principal referral
+NSW,White Cliffs MPS,Cliffs,2836,115,Far West,Very remote,0.0,Very small
+NSW,Wilcannia (MPS),Wilcannia,2836,115,Far West,Very remote,8.0,Very small
+NSW,Wingham,Wingham,2429,109,Hunter New England,Inner Regional,32.0,Rehabilitation and GEM
+NSW,Wollongong,Wollongong,2500,108,Illawarra Shoalhaven,Major Cities,486.3,Principal referral
+NSW,Woy Woy,Woy,2256,107,Central Coast,Major Cities,52.8,Mixed subacute and non-acute
+NSW,Wyalong,Wyalong,2671,114,Murrumbidgee,Outer Regional,22.0,Public acute group D
+NSW,Wyong,Kanwal,2259,107,Central Coast,Major Cities,331.9,Public acute group A
+NSW,Yass,Yass,2582,113,Southern NSW,Inner Regional,10.0,Public acute group D
+NSW,Young,Young,2594,114,Murrumbidgee,Inner Regional,27.6,Public acute group C
+NT,Alice Springs Hospital,Young,2594,702,Central Australia (NT),Remote,183.0,Public acute group A
+NT,Gove Hospital,Young,2594,701,Top End (NT),Very remote,34.0,Public acute group C
+NT,Katherine Hospital,Young,2594,701,Top End (NT),Remote,60.0,Public acute group C
+NT,Royal Darwin Hospital,Young,2594,701,Top End (NT),Outer Regional,367.0,Principal referral
+NT,Tennant Creek Hospital,Young,2594,702,Central Australia (NT),Very remote,20.0,Public acute group C
+QLD,Alpha Hospital,Alpha,4724,317,Central West (Qld),Very remote,4.0,Very small
+QLD,Atherton Hospital,Atherton,4883,312,Cairns and Hinterland,Outer Regional,57.0,Public acute group C
+QLD,Augathella Hospital,Augathella,4477,326,South West (Qld),Very remote,4.0,Very small
+QLD,Ayr Hospital,Ayr,4807,313,Townsville,Outer Regional,32.0,Public acute group C
+QLD,Babinda Hospital,Babinda,4861,312,Cairns and Hinterland,Outer Regional,22.0,Public acute group D
+QLD,Baillie Henderson Hospital,Toowoomba,4350,325,Darling Downs,Inner Regional,112.0,Psychiatric
+QLD,Bamaga Hospital,Bamaga,4876,327,Torres and Cape,Very remote,14.0,Public acute group D
+QLD,Baralaba Hospital,Baralaba,4702,316,Central Queensland,Outer Regional,5.0,Very small
+QLD,Barcaldine Hospital,Barcaldine,4725,317,Central West (Qld),Very remote,12.0,Public acute group D
+QLD,Beaudesert Hospital,Beaudesert,4285,322,Metro South (Qld),Inner Regional,32.0,Public acute group D
+QLD,Biggenden Hospital,Biggenden,4621,318,Wide Bay,Outer Regional,7.0,Public acute group D
+QLD,Biloela Hospital,Biloela,4715,316,Central Queensland,Outer Regional,24.0,Public acute group C
+QLD,Blackall Hospital,Blackall,4472,317,Central West (Qld),Very remote,18.0,Public acute group D
+QLD,Blackwater Hospital,Blackwater,4717,316,Central Queensland,Outer Regional,10.0,Public acute group D
+QLD,Boonah Hospital,Boonah,4310,324,West Moreton,Inner Regional,22.0,Public acute group D
+QLD,Bowen Hospital,Bowen,4805,314,Mackay,Outer Regional,27.0,Public acute group C
+QLD,Bundaberg Hospital,Bundaberg,4670,318,Wide Bay,Inner Regional,264.0,Public acute group A
+QLD,Caboolture Hospital,Caboolture,4510,320,Metro North (Qld),Major Cities,265.0,Public acute group B
+QLD,Cairns Hospital,Cairns,4870,312,Cairns and Hinterland,Outer Regional,630.0,Public acute group A
+QLD,Caloundra Hospital,Caloundra,4551,319,Sunshine Coast,Major Cities,30.0,Public acute group B
+QLD,Capricorn Coast Hospital,Yeppoon,4703,316,Central Queensland,Inner Regional,22.0,Public acute group C
+QLD,Charleville Hospital,Charleville,4470,326,South West (Qld),Very remote,21.0,Public acute group C
+QLD,Charters Towers Hospital,Towers,4820,313,Townsville,Outer Regional,29.0,Public acute group D
+QLD,Charters Towers Rehabilitation Unit,Towers,4820,313,Townsville,Outer Regional,27.0,Psychiatric
+QLD,Cherbourg Hospital,Cherbourg,4605,325,Darling Downs,Outer Regional,17.0,Public acute group C
+QLD,Childers Hospital,Childers,4660,318,Wide Bay,Inner Regional,15.0,Public acute group D
+QLD,Chinchilla Hospital,Chinchilla,4413,325,Darling Downs,Outer Regional,22.0,Public acute group C
+QLD,Clermont Hospital,Clermont,4721,314,Mackay,Remote,10.0,Public acute group D
+QLD,Cloncurry Hospital,Cloncurry,4824,315,North West (Qld),Remote,8.0,Public acute group D
+QLD,Collinsville Hospital,Collinsville,4804,314,Mackay,Remote,8.0,Public acute group D
+QLD,Cooktown Hospital,Cooktown,4895,327,Torres and Cape,Remote,24.0,Public acute group D
+QLD,Cunnamulla Hospital,Cunnamulla,4490,326,South West (Qld),Very remote,20.0,Public acute group D
+QLD,Dalby Hospital,Dalby,4405,325,Darling Downs,Inner Regional,45.0,Public acute group C
+QLD,Dirranbandi Hospital,Dirranbandi,4486,326,South West (Qld),Very remote,7.0,Public acute group D
+QLD,Doomadgee Hospital,Doomadgee,4830,315,North West (Qld),Very remote,7.0,Public acute group D
+QLD,Dysart Hospital,Dysart,4745,314,Mackay,Outer Regional,9.0,Public acute group D
+QLD,Eidsvold Hospital,Eidsvold,4627,318,Wide Bay,Outer Regional,4.0,Public acute group D
+QLD,Ellen Barron Family Centre,Chermside,4032,321,Children's Health Queensland,Major Cities,49.0,Early parenting centres
+QLD,Emerald Hospital,Emerald,4720,316,Central Queensland,Outer Regional,38.0,Public acute group C
+QLD,Esk Hospital,Esk,4312,324,West Moreton,Inner Regional,20.0,Public acute group D
+QLD,Gatton Hospital,Gatton,4343,324,West Moreton,Inner Regional,22.0,Public acute group D
+QLD,Gayndah Hospital,Gayndah,4625,318,Wide Bay,Outer Regional,10.0,Public acute group D
+QLD,Gin Gin Hospital,Gin,4671,318,Wide Bay,Outer Regional,6.0,Public acute group D
+QLD,Gladstone Hospital,Gladstone,4680,316,Central Queensland,Inner Regional,75.0,Public acute group B
+QLD,Gold Coast University Hospital,Southport,4215,323,Gold Coast,Major Cities,788.0,Principal referral
+QLD,Goondiwindi Hospital,Goondiwindi,4390,325,Darling Downs,Outer Regional,33.0,Public acute group C
+QLD,Gordonvale Hospital,Gordonvale,4865,312,Cairns and Hinterland,Outer Regional,24.0,Mixed subacute and non-acute
+QLD,Gympie Hospital,Gympie,4570,319,Sunshine Coast,Inner Regional,91.0,Public acute group B
+QLD,Herberton Hospital,Herberton,4887,312,Cairns and Hinterland,Outer Regional,38.0,Mixed subacute and non-acute
+QLD,Hervey Bay Hospital,Pialba,4655,318,Wide Bay,Inner Regional,168.0,Public acute group A
+QLD,Home Hill Hospital,Hill,4806,313,Townsville,Outer Regional,14.0,Very small
+QLD,Hughenden Hospital,Hughenden,4821,313,Townsville,Very remote,9.0,Public acute group D
+QLD,Ingham Hospital,Ingham,4850,313,Townsville,Outer Regional,32.0,Public acute group D
+QLD,Inglewood Hospital,Inglewood,4387,325,Darling Downs,Outer Regional,10.0,Public acute group D
+QLD,Injune Hospital,Injune,4454,326,South West (Qld),Very remote,5.0,Public acute group D
+QLD,Innisfail Hospital,Innisfail,4860,312,Cairns and Hinterland,Outer Regional,48.0,Public acute group C
+QLD,Ipswich Hospital,Ipswich,4305,324,West Moreton,Major Cities,430.0,Public acute group A
+QLD,Jandowae Hospital,Jandowae,4410,325,Darling Downs,Outer Regional,12.0,Very small
+QLD,Joyce Palmer Health Service,Island,4816,313,Townsville,Remote,11.0,Public acute group D
+QLD,Julia Creek Hospital,Creek,4823,315,North West (Qld),Very remote,6.0,Public acute group D
+QLD,Kilcoy Hospital,Kilcoy,4515,320,Metro North (Qld),Inner Regional,21.0,Public acute group D
+QLD,Kingaroy Hospital,Kingaroy,4610,325,Darling Downs,Inner Regional,49.0,Public acute group C
+QLD,Kirwan Mental Health Rehabilitation Unit,Kirwan,4817,313,Townsville,Outer Regional,30.0,Psychiatric
+QLD,Lady Cilento Children's Hospital,Brisbane,4101,321,Children's Health Queensland,Major Cities,361.0,Childrens
+QLD,Laidley Hospital,Laidley,4341,324,West Moreton,Inner Regional,15.0,Public acute group D
+QLD,Logan Hospital,Meadowbrook,4131,322,Metro South (Qld),Major Cities,438.0,Public acute group A
+QLD,Longreach Hospital,Longreach,4730,317,Central West (Qld),Very remote,27.0,Public acute group C
+QLD,Mackay Base Hospital,Mackay,4740,314,Mackay,Inner Regional,220.0,Public acute group A
+QLD,Maleny Hospital,Maleny,4552,319,Sunshine Coast,Inner Regional,24.0,Public acute group D
+QLD,Mareeba Hospital,Mareeba,4880,312,Cairns and Hinterland,Outer Regional,53.0,Public acute group C
+QLD,Maryborough Hospital,Maryborough,4650,318,Wide Bay,Inner Regional,92.0,Public acute group B
+QLD,Mater Adult Hospital,Brisbane,4101,997,Not applicable,Major Cities,260.0,Public acute group A
+QLD,Mater Mother's Hospital,Brisbane,4101,997,Not applicable,Major Cities,128.0,Womens
+QLD,Miles Hospital,Miles,4415,325,Darling Downs,Outer Regional,13.0,Public acute group D
+QLD,Millmerran Hospital,Millmerran,4357,325,Darling Downs,Inner Regional,11.0,Public acute group D
+QLD,Mitchell Hospital,Mitchell,4465,326,South West (Qld),Very remote,12.0,Public acute group D
+QLD,Monto Hospital,Monto,4630,318,Wide Bay,Outer Regional,14.0,Public acute group D
+QLD,Moranbah Hospital,Moranbah,4744,314,Mackay,Outer Regional,12.0,Public acute group D
+QLD,Mornington Island Hospital,Island,4871,315,North West (Qld),Very remote,11.0,Public acute group D
+QLD,Mossman Hospital,Mossman,4873,312,Cairns and Hinterland,Outer Regional,32.0,Public acute group C
+QLD,Mount Isa Hospital,Isa,4825,315,North West (Qld),Remote,73.0,Public acute group B
+QLD,Mount Morgan Hospital,Morgan,4714,316,Central Queensland,Inner Regional,10.0,Public acute group D
+QLD,Moura Hospital,Moura,4718,316,Central Queensland,Outer Regional,4.0,Public acute group D
+QLD,Mundubbera Hospital,Mundubbera,4626,318,Wide Bay,Outer Regional,4.0,Public acute group D
+QLD,Mungindi Hospital,Mungindi,2406,326,South West (Qld),Remote,8.0,Public acute group D
+QLD,Murgon Hospital,Murgon,4605,325,Darling Downs,Outer Regional,15.0,Public acute group D
+QLD,Nambour Hospital,Nambour,4560,319,Sunshine Coast,Major Cities,155.0,Public acute group A
+QLD,Nanango Hospital,Nanango,4615,325,Darling Downs,Inner Regional,10.0,Public acute group D
+QLD,Normanton Hospital,Normanton,4890,315,North West (Qld),Very remote,14.0,Public acute group D
+QLD,Oakey Hospital,Oakey,4401,325,Darling Downs,Inner Regional,10.0,Public acute group D
+QLD,Princess Alexandra Hospital,Woolloongabba,4102,322,Metro South (Qld),Major Cities,1055.0,Principal referral
+QLD,Proserpine Hospital,Proserpine,4800,314,Mackay,Outer Regional,33.0,Public acute group C
+QLD,Queen Elizabeth Ii Jubilee Hospital,Plains,4108,322,Metro South (Qld),Major Cities,218.0,Public acute group A
+QLD,Quilpie Hospital,Quilpie,4480,326,South West (Qld),Very remote,6.0,Very small
+QLD,Redcliffe Hospital,Redcliffe,4020,320,Metro North (Qld),Major Cities,418.0,Public acute group A
+QLD,Redland Hospital,Cleveland,4163,322,Metro South (Qld),Major Cities,194.0,Public acute group B
+QLD,Richmond Hospital,Richmond,4822,313,Townsville,Very remote,6.0,Very small
+QLD,Robina Hospital,Robina,4226,323,Gold Coast,Major Cities,379.0,Public acute group B
+QLD,Rockhampton Base Hospital,Rockhampton,4700,316,Central Queensland,Inner Regional,311.0,Public acute group A
+QLD,Roma Hospital,Roma,4455,326,South West (Qld),Outer Regional,48.0,Public acute group C
+QLD,Royal Brisbane & Women's Hospital,Herston,4006,320,Metro North (Qld),Major Cities,988.0,Principal referral
+QLD,Sarina Hospital,Sarina,4737,314,Mackay,Outer Regional,16.0,Public acute group D
+QLD,Springsure Hospital,Springsure,4722,316,Central Queensland,Remote,10.0,Public acute group D
+QLD,St George Hospital,George,4487,326,South West (Qld),Remote,31.0,Public acute group C
+QLD,Stanthorpe Hospital,Stanthorpe,4380,325,Darling Downs,Outer Regional,45.0,Public acute group C
+QLD,Sunshine Coast University Hospital,Birtinya,4575,319,Sunshine Coast,Major Cities,463.0,Principal referral
+QLD,Surat Hospital,Surat,4417,326,South West (Qld),Remote,4.0,Public acute group D
+QLD,Tara Hospital,Tara,4421,325,Darling Downs,Outer Regional,15.0,Public acute group D
+QLD,Taroom Hospital,Taroom,4420,325,Darling Downs,Remote,13.0,Public acute group D
+QLD,Texas Hospital,Texas,4385,325,Darling Downs,Outer Regional,6.0,Public acute group D
+QLD,The Park Centre for Mental Health,Wacol,4076,324,West Moreton,Major Cities,140.0,Psychiatric
+QLD,The Prince Charles Hospital,Chermside,4032,320,Metro North (Qld),Major Cities,662.0,Principal referral
+QLD,Theodore Hospital,Theodore,4719,316,Central Queensland,Outer Regional,6.0,Public acute group D
+QLD,Thursday Island Hospital,Island,4875,327,Torres and Cape,Very remote,46.0,Public acute group C
+QLD,Toowoomba Hospital,Toowoomba,4350,325,Darling Downs,Inner Regional,305.0,Public acute group A
+QLD,Townsville Hospital,Douglas,4814,313,Townsville,Outer Regional,690.0,Principal referral
+QLD,Tully Hospital,Tully,4854,312,Cairns and Hinterland,Outer Regional,20.0,Public acute group C
+QLD,Warwick Hospital,Warwick,4370,325,Darling Downs,Inner Regional,69.0,Public acute group C
+QLD,Weipa Hospital,Weipa,4874,327,Torres and Cape,Very remote,20.0,Public acute group C
+QLD,Winton Hospital,Winton,4735,317,Central West (Qld),Very remote,8.0,Public acute group D
+QLD,Wondai Hospital,Wondai,4606,325,Darling Downs,Outer Regional,5.0,Very small
+QLD,Woorabinda Hospital,Woorabinda,4702,316,Central Queensland,Remote,11.0,Public acute group D
+QLD,Wynnum Hospital,Lota,4179,322,Metro South (Qld),Major Cities,21.0,Mixed subacute and non-acute
+SA,N/A,Yorketown,5576,404,Country Health SA,Remote,26.0,Public acute group D
+SA,Angaston District Hospital,Angaston,5353,404,Country Health SA,Inner Regional,32.0,Public acute group C
+SA,Balaklava Soldier's Memorial District Ho,Balaklava,5461,404,Country Health SA,Inner Regional,31.0,Public acute group D
+SA,Barmera Health Service,Barmera,5345,404,Country Health SA,Outer Regional,20.0,Public acute group D
+SA,Booleroo Centre District Hospital and He,Centre,5482,404,Country Health SA,Outer Regional,23.0,Public acute group D
+SA,Bordertown Memorial Hospital,Bordertown,5268,404,Country Health SA,Outer Regional,40.0,Public acute group C
+SA,Burra Hospital,Burra,5417,404,Country Health SA,Outer Regional,7.0,Very small
+SA,Ceduna District Health Service,Ceduna,5690,404,Country Health SA,Very remote,15.0,Public acute group C
+SA,Central Yorke Peninsula Hospital (Maitla,Maitland,5573,404,Country Health SA,Outer Regional,33.0,Public acute group D
+SA,Clare Hospital,Clare,5453,404,Country Health SA,Outer Regional,25.0,Public acute group C
+SA,Cleve District Hospital and Aged Care,Cleve,5640,404,Country Health SA,Remote,20.0,Public acute group D
+SA,Coober Pedy Hospital and Health Service,Pedy,5723,404,Country Health SA,Very remote,15.0,Public acute group D
+SA,Cowell District Hospital and Aged Care,Cowell,5602,404,Country Health SA,Remote,8.0,Very small
+SA,Crystal Brook and District Hospital,Brook,5523,404,Country Health SA,Outer Regional,13.0,Public acute group C
+SA,Cummins and District Memorial Hospital,Cummins,5631,404,Country Health SA,Remote,19.0,Public acute group D
+SA,Elliston Hospital,Elliston,5670,404,Country Health SA,Very remote,6.0,Very small
+SA,Eudunda Hospital,Eudunda,5374,404,Country Health SA,Inner Regional,8.0,Very small
+SA,Flinders Medical Centre,Park,5042,403,Southern Adelaide,Major Cities,602.0,Principal referral
+SA,Gawler Health Service,East,5118,404,Country Health SA,Major Cities,62.0,Public acute group C
+SA,Glenside Hospital,Glenside,5065,402,Central Adelaide,Major Cities,160.0,Psychiatric
+SA,Gumeracha District Soldiers' Memorial Ho,Gumeracha,5233,404,Country Health SA,Inner Regional,17.0,Public acute group D
+SA,Hampstead Rehabilitation Centre,Northfield,5085,402,Central Adelaide,Major Cities,125.0,Rehabilitation and GEM
+SA,Hawker Memorial Hospital,Hawker,5434,404,Country Health SA,Outer Regional,4.0,Very small
+SA,Jamestown Hospital and Health Service,Jamestown,5491,404,Country Health SA,Outer Regional,12.0,Public acute group C
+SA,Kangaroo Island Health Service,Kingscote,5223,404,Country Health SA,Remote,15.0,Public acute group C
+SA,Kapunda Hospital,Kapunda,5373,404,Country Health SA,Inner Regional,27.0,Public acute group C
+SA,Karoonda and District Soldiers' Memorial,Karoonda,5307,404,Country Health SA,Outer Regional,4.0,Very small
+SA,Kimba District Hospital and Aged Care,Kimba,5641,404,Country Health SA,Remote,8.0,Very small
+SA,Kingston Soldiers' Memorial Hospital,Se,5275,404,Country Health SA,Outer Regional,10.0,Public acute group D
+SA,Lameroo District Health Service,Lameroo,5302,404,Country Health SA,Remote,11.0,Public acute group D
+SA,Laura and District Hospital,Laura,5480,404,Country Health SA,Outer Regional,4.0,Very small
+SA,Leigh Creek Health Service,Creek,5731,404,Country Health SA,Very remote,7.0,Very small
+SA,Loxton Hospital Complex,Loxton,5333,404,Country Health SA,Outer Regional,22.0,Public acute group C
+SA,Lyell McEwin Hospital,Vale,5112,401,Northern Adelaide,Major Cities,373.0,Public acute group A
+SA,Mannum District Hospital,Mannum,5238,404,Country Health SA,Inner Regional,13.0,Public acute group D
+SA,McLaren Vale & Districts War Memorial Ho,Vale,5171,404,Country Health SA,Major Cities,0.0,Public acute group D
+SA,Meningie and Districts Memorial Hospital,Meningie,5264,404,Country Health SA,Outer Regional,14.0,Public acute group D
+SA,Millicent and Districts Hospital and Hea,Millicent,5280,404,Country Health SA,Outer Regional,30.0,Public acute group C
+SA,Modbury Hospital,Modbury,5092,401,Northern Adelaide,Major Cities,107.0,Public acute group A
+SA,Mount Barker District Soldiers' Memorial,Barker,5251,404,Country Health SA,Inner Regional,46.0,Public acute group C
+SA,Mount Gambier and Districts Health Servi,Gambier,5290,404,Country Health SA,Outer Regional,96.0,Public acute group B
+SA,Mount Pleasant District Hospital,Pleasant,5235,404,Country Health SA,Inner Regional,21.0,Public acute group D
+SA,Murray Bridge Soldiers' Memorial Hospita,Bridge,5253,404,Country Health SA,Inner Regional,58.0,Public acute group C
+SA,Naracoorte Health Service,Naracoorte,5271,404,Country Health SA,Outer Regional,60.0,Public acute group C
+SA,Noarlunga Public Hospital,Centre,5168,403,Southern Adelaide,Major Cities,85.0,Public acute group B
+SA,Northern Yorke Peninsula Health Service,Wallaroo,5556,404,Country Health SA,Outer Regional,21.0,Public acute group C
+SA,Oakden Hospital,Oakden,5086,401,Northern Adelaide,Major Cities,24.0,Psychiatric
+SA,Oodnadatta Clinic,Oodnadatta,5734,404,Country Health SA,Very remote,2.0,Very small
+SA,Orroroo and District Health Service,Orroroo,5431,404,Country Health SA,Outer Regional,8.0,Very small
+SA,Penola War Memorial Hospital,Penola,5277,404,Country Health SA,Outer Regional,6.0,Very small
+SA,Peterborough Soldiers' Memorial Hospital,Peterborough,5422,404,Country Health SA,Outer Regional,22.0,Public acute group D
+SA,Pinnaroo Soldiers' Memorial Hospital,Pinnaroo,5304,404,Country Health SA,Remote,8.0,Very small
+SA,Port Augusta Hospital and Regional Healt,Augusta,5700,404,Country Health SA,Outer Regional,61.0,Public acute group B
+SA,Port Broughton and District Hospital and,Broughton,5522,404,Country Health SA,Outer Regional,20.0,Public acute group D
+SA,Port Lincoln Health Service,Lincoln,5606,404,Country Health SA,Remote,67.0,Public acute group C
+SA,Port Pirie Regional Health Service,Pirie,5540,404,Country Health SA,Outer Regional,69.0,Public acute group C
+SA,Pregnancy Advisory Centre,Woodville,5011,402,Central Adelaide,Major Cities,5.0,Unpeered
+SA,Quorn Health Service,Quorn,5433,404,Country Health SA,Outer Regional,11.0,Public acute group D
+SA,Renmark Paringa District Hospital,Renmark,5341,404,Country Health SA,Outer Regional,17.0,Public acute group C
+SA,Repatriation General Hospital,Park,5041,403,Southern Adelaide,Major Cities,274.0,Public acute group A
+SA,Riverland General Hospital,Berri,5343,404,Country Health SA,Outer Regional,53.0,Public acute group C
+SA,Riverton District Soldiers' Memorial Hos,Riverton,5412,404,Country Health SA,Inner Regional,14.0,Public acute group D
+SA,Roxby Downs Health Service,Downs,5725,404,Country Health SA,Remote,10.0,Public acute group D
+SA,Royal Adelaide Hospital,Adelaide,5000,402,Central Adelaide,Major Cities,847.0,Principal referral
+SA,Snowtown Hospital and Health Service,Snowtown,5520,404,Country Health SA,Outer Regional,4.0,Very small
+SA,South Coast District Hospital,Harbor,5211,404,Country Health SA,Inner Regional,47.0,Public acute group C
+SA,St. Margaret's Hospital,South,5019,402,Central Adelaide,Major Cities,36.0,Rehabilitation and GEM
+SA,Strathalbyn and District Health Service,Strathalbyn,5255,404,Country Health SA,Inner Regional,25.0,Public acute group C
+SA,Streaky Bay Hospital,Bay,5680,404,Country Health SA,Remote,19.0,Public acute group D
+SA,Tailem Bend District Hospital,Bend,5260,404,Country Health SA,Inner Regional,9.0,Public acute group D
+SA,Tanunda War Memorial Hospital,Tanunda,5352,404,Country Health SA,Inner Regional,22.0,Public acute group C
+SA,The Queen Elizabeth Hospital,South,5011,402,Central Adelaide,Major Cities,311.0,Public acute group A
+SA,Tumby Bay Hospital and Health Services,Bay,5605,404,Country Health SA,Remote,15.0,Public acute group D
+SA,Waikerie Health Service,Waikerie,5330,404,Country Health SA,Outer Regional,29.0,Public acute group C
+SA,Whyalla Hospital and Health Services,Whyalla,5600,404,Country Health SA,Outer Regional,101.0,Public acute group B
+SA,Women's and Children's Hospital,Adelaide,5006,405,Women's and Children's Health Network (SA),Major Cities,312.0,Womens and childrens
+SA,Wudinna Hospital,Wudinna,5652,404,Country Health SA,Very remote,13.0,Very small
+TAS,Beaconsfield MPS,Beaconsfield,7270,604,N/A,Outer Regional,4.0,Very small
+TAS,Campbell Town MPS,Town,7210,604,N/A,Outer Regional,6.0,Very small
+TAS,Deloraine Hospital,Deloraine,7304,604,N/A,Outer Regional,20.0,Public acute group D
+TAS,Esperance MPC,Dover,7117,604,N/A,Outer Regional,4.0,Very small
+TAS,Flinders Island MPC,Whitemark,7255,604,N/A,Very remote,4.0,Very small
+TAS,George Town Hospital,Town,7253,604,N/A,Outer Regional,15.0,Public acute group D
+TAS,Health West,Queenstown,7467,604,N/A,Remote,10.0,Public acute group D
+TAS,Huon Hospital,Franklin,7113,604,N/A,Outer Regional,8.0,Very small
+TAS,King Is MPC,Currie,7256,604,N/A,Very remote,6.0,Public acute group D
+TAS,Launceston General Hospital,Launceston,7250,604,N/A,Inner Regional,385.0,Public acute group A
+TAS,May Shaw District Nursing Centre,Swansea,7190,604,N/A,Remote,2.0,Very small
+TAS,Mersey,Latrobe,7307,604,N/A,Outer Regional,90.0,Public acute group B
+TAS,Midlands MPC,Oatlands,7120,604,N/A,Outer Regional,4.0,Very small
+TAS,NESM  - Scottsdale Hospital,Scottsdale,7260,604,N/A,Outer Regional,18.0,Public acute group C
+TAS,NWRH_Burnie,Burnie,7320,604,N/A,Outer Regional,125.0,Public acute group A
+TAS,New Norfolk Hospital,Norfolk,7140,604,N/A,Inner Regional,12.0,Public acute group D
+TAS,Royal Hobart Hospital,Hobart,7000,604,N/A,Inner Regional,469.0,Principal referral
+TAS,Smithton Hospital,Smithton,7330,604,N/A,Outer Regional,12.0,Public acute group D
+TAS,St Helens District Hospital,Helens,7216,604,N/A,Outer Regional,9.0,Public acute group D
+TAS,St Marys CHC,Marys,7215,604,N/A,Outer Regional,8.0,Public acute group D
+TAS,Statewide Mental Health Services,Town,7008,604,N/A,Inner Regional,89.0,Psychiatric
+TAS,Tasman MPS,Nubeena,7184,604,N/A,Outer Regional,2.0,Very small
+TAS,Toosey Memorial - Longford,Longford,7301,604,N/A,Inner Regional,2.0,Very small
+VIC,Albury Wodonga Health [Albury Campus],Albury,2640,249,Albury Wodonga Health,Inner Regional,158.2,Public acute group A
+VIC,Albury Wodonga Health [Wodonga Campus],Wodonga,3690,249,Albury Wodonga Health,Inner Regional,132.3,Public acute group B
+VIC,Alexandra District Hospital,Alexandra,3714,233,Alexandra District Hospital,Inner Regional,31.0,Public acute group C
+VIC,Alpine Health [Bright],Bright,3741,245,Alpine Health (Vic),Outer Regional,9.0,Public acute group C
+VIC,Alpine Health [Mount Beauty],Beauty,3699,245,Alpine Health (Vic),Outer Regional,10.0,Public acute group D
+VIC,Alpine Health [Myrtleford],Myrtleford,3736,245,Alpine Health (Vic),Inner Regional,15.0,Public acute group D
+VIC,Angliss Hospital,Gully,3156,234,Eastern Health (Vic),Major Cities,186.0,Public acute group B
+VIC,Austin Hospital [Heidelberg],Heidelberg,3084,266,Austin Health (Vic),Major Cities,653.4,Principal referral
+VIC,Bairnsdale Regional Health Service,Bairnsdale,3875,256,Bairnsdale Regional Health Service,Outer Regional,101.3,Public acute group C
+VIC,Ballarat Health Services [Base Campus],Central,3350,203,Ballarat Health Services,Inner Regional,258.3,Public acute group A
+VIC,Ballarat Health Services [Queen Elizabet,Ballarat,3350,203,Ballarat Health Services,Inner Regional,93.3,Mixed subacute and non-acute
+VIC,Bass Coast Regional Health,Wonthaggi,3995,253,Bass Coast Regional Health,Inner Regional,54.6,Public acute group C
+VIC,Beaufort & Skipton Health Service [Beauf,Beaufort,3373,201,Beaufort and Skipton Health Service,Inner Regional,10.0,Very small
+VIC,Beaufort & Skipton Health Service [Skipt,Skipton,3361,201,Beaufort and Skipton Health Service,Inner Regional,6.0,Very small
+VIC,Beechworth Health Service,Beechworth,3747,251,Beechworth Health Service,Inner Regional,13.0,Public acute group D
+VIC,Benalla & District Memorial Hospital,Benalla,3672,247,Benalla and District Memorial Hospital,Inner Regional,55.0,Public acute group C
+VIC,Bendigo Health Care Group [Anne Caudle],Bendigo,3550,210,Bendigo Health Care Group,Inner Regional,97.2,Mixed subacute and non-acute
+VIC,Boort District Health,Boort,3537,218,Boort District Health,Outer Regional,7.0,Public acute group D
+VIC,Box Hill Hospital,Hill,3128,234,Eastern Health (Vic),Major Cities,510.8,Public acute group A
+VIC,Broadmeadows Health Service,Broadmeadows,3074,226,Northern Health (Vic),Major Cities,145.9,Public acute group C
+VIC,Bundoora Extended Care Centre,Bundoora,3083,226,Northern Health (Vic),Major Cities,85.0,Rehabilitation and GEM
+VIC,Calvary Health Care Bethlehem,Caulfield,3162,290,Calvary Health Care Bethlehem Limited,Major Cities,32.0,Mixed subacute and non-acute
+VIC,Caritas Christi Hospice [Kew],Kew,3101,262,St Vincent's Hospital (Melbourne) Limited,Major Cities,25.5,Mixed subacute and non-acute
+VIC,Casey Hospital,Berwick,3806,269,Monash Health,Major Cities,234.3,Public acute group B
+VIC,Casterton Memorial Hospital,Casterton,3311,283,Casterton Memorial Hospital,Outer Regional,15.0,Public acute group D
+VIC,Castlemaine Health,Castlemaine,3450,221,Castlemaine Health,Inner Regional,50.3,Public acute group C
+VIC,Caulfield Hospital,Caulfield,3162,268,Alfred Health (Vic),Major Cities,261.5,Mixed subacute and non-acute
+VIC,Central Gippsland Health Service [Maffra,Maffra,3860,259,Central Gippsland Health Service,Inner Regional,8.3,Public acute group D
+VIC,Central Gippsland Health Service [Sale],Sale,3850,259,Central Gippsland Health Service,Inner Regional,94.0,Public acute group A
+VIC,Cobram District Hospital,Cobram,3644,239,Cobram District Hospital,Inner Regional,12.0,Public acute group D
+VIC,Cohuna District Hospital,Cohuna,3568,213,Cohuna District Hospital,Outer Regional,16.0,Public acute group C
+VIC,Colac Area Health,Colac,3250,228,Colac Area Health,Inner Regional,37.0,Public acute group C
+VIC,Craigieburn Health Service,Craigieburn,3064,226,Northern Health (Vic),Major Cities,14.0,Other day procedure hospital
+VIC,Cranbourne Integrated Care Centre,Cranbourne,3977,269,Monash Health,Major Cities,18.4,Other day procedure hospital
+VIC,Creswick District Hospital,Creswick,3363,206,Hepburn Health Service,Inner Regional,6.0,Very small
+VIC,Dandenong Campus,Dandenong,3175,269,Monash Health,Major Cities,532.4,Public acute group A
+VIC,Daylesford District Hospital,Daylesford,3460,206,Hepburn Health Service,Inner Regional,21.0,Public acute group D
+VIC,Dental Health Services Victoria,Carlton,3053,998,Unknown,Major Cities,20.0,Unpeered
+VIC,Dimboola District Hospital,Dimboola,3414,275,Wimmera Health Care Group,Outer Regional,4.0,Public acute group D
+VIC,Djerriwarrh Health Service [Bacchus Mars,Marsh,3340,208,Djerriwarrh Health Service (Vic),Inner Regional,43.0,Public acute group C
+VIC,East Grampians Health Service [Ararat],Ararat,3377,202,East Grampians Health Service,Inner Regional,38.0,Public acute group C
+VIC,East Grampians Health Service [Willaura],Willaura,3379,202,East Grampians Health Service,Outer Regional,8.0,Very small
+VIC,East Wimmera Health Service [Birchip],Birchip,3483,205,East Wimmera Health Service,Outer Regional,8.0,Very small
+VIC,East Wimmera Health Service [Charlton],Charlton,3525,205,East Wimmera Health Service,Outer Regional,2.0,Very small
+VIC,East Wimmera Health Service [Donald],Donald,3480,205,East Wimmera Health Service,Outer Regional,13.0,Public acute group D
+VIC,East Wimmera Health Service [St Arnaud],Arnaud,3478,205,East Wimmera Health Service,Outer Regional,14.0,Public acute group C
+VIC,East Wimmera Health Service [Wycheproof],Wycheproof,3527,205,East Wimmera Health Service,Outer Regional,6.0,Very small
+VIC,Echuca Regional Health,Echuca,3564,214,Echuca Regional Health,Inner Regional,86.7,Public acute group C
+VIC,Edenhope and District Memorial Hospital,Edenhope,3318,278,Edenhope and District Memorial Hospital,Outer Regional,16.0,Public acute group D
+VIC,Frankston Hospital,Frankston,3199,270,Peninsula Health (Vic),Major Cities,445.3,Public acute group A
+VIC,Gippsland Southern Health Service - Koru,Korumburra,3950,254,Gippsland Southern Health Service,Inner Regional,15.0,Public acute group C
+VIC,Gippsland Southern Health Service - Leon,Leongatha,3953,254,Gippsland Southern Health Service,Inner Regional,37.0,Public acute group C
+VIC,Golf Links Road Rehabilitation Centre,Frankston,3199,270,Peninsula Health (Vic),Major Cities,74.2,Mixed subacute and non-acute
+VIC,Goulburn Valley Health [Shepparton],Shepparton,3630,235,Goulburn Valley Health,Inner Regional,218.2,Public acute group A
+VIC,Goulburn Valley Health [Tatura],Tatura,3616,235,Goulburn Valley Health,Inner Regional,8.0,Very small
+VIC,Goulburn Valley Health [Waranga],Rushworth,3612,235,Goulburn Valley Health,Inner Regional,12.0,Very small
+VIC,Healesville and District Hospital,Healesville,3777,234,Eastern Health (Vic),Inner Regional,7.9,Public acute group C
+VIC,Heathcote Health,Heathcote,3523,211,Heathcote Health,Inner Regional,8.0,Public acute group D
+VIC,Heidelberg Repatriation Hospital [Heidel,West,3081,266,Austin Health (Vic),Major Cities,184.3,Public acute group C
+VIC,Hesse Rural Health Service [Winchelsea],Winchelsea,3241,229,Hesse Rural Health Service (Winchelsea),Inner Regional,5.0,Very small
+VIC,Heywood Rural Health,Heywood,3304,285,Heywood Rural Health,Outer Regional,5.0,Very small
+VIC,Inglewood & District Health Service,Inglewood,3517,220,Inglewood and District Health Service,Inner Regional,7.0,Public acute group D
+VIC,Kerang District Health,Kerang,3579,215,Kerang District Health,Outer Regional,18.0,Public acute group C
+VIC,Kingston Centre [Cheltenham],Cheltenham,3192,269,Monash Health,Major Cities,186.3,Rehabilitation and GEM
+VIC,Kooweerup Regional Health Service,Rup,3981,271,Kooweerup Regional Health Service,Inner Regional,9.0,Very small
+VIC,Kyabram & District Health Service,Kyabram,3620,236,Kyabram and District Health Service,Inner Regional,39.0,Public acute group C
+VIC,Kyneton District Health Service,Kyneton,3444,222,Kyneton District Health Service,Inner Regional,24.0,Public acute group C
+VIC,Latrobe Regional Hospital [Traralgon],Traralgon,3844,260,Latrobe Regional Hospital,Inner Regional,251.2,Public acute group A
+VIC,Lorne Community Hospital,Lorne,3232,232,Lorne Community Hospital,Inner Regional,4.0,Public acute group D
+VIC,Maldon Hospital,Maldon,3463,216,Maldon Hospital,Inner Regional,4.0,Very small
+VIC,Mallee Track Health & Community Service,Ouyen,3490,280,Mallee Track Health and Community Service,Outer Regional,4.0,Very small
+VIC,Mallee Track Health & Community Service,Lake,3533,280,Mallee Track Health and Community Service,Outer Regional,4.0,Unpeered
+VIC,Manangatang & District Hospital,Manangatang,3546,281,Robinvale District Health Services,Outer Regional,6.0,Very small
+VIC,Mansfield District Hospital,Mansfield,3722,246,Mansfield District Hospital,Outer Regional,25.0,Public acute group C
+VIC,Maroondah Hospital [East Ringwood],East,3135,234,Eastern Health (Vic),Major Cities,280.0,Public acute group A
+VIC,Maryborough District Health Service [Dun,Dunolly,3472,207,Maryborough District Health Service,Inner Regional,4.0,Very small
+VIC,Maryborough District Health Service [Mar,Maryborough,3465,207,Maryborough District Health Service,Inner Regional,44.0,Public acute group C
+VIC,McKellar Centre [Geelong],Geelong,3219,231,Barwon Health,Major Cities,96.0,Rehabilitation and GEM
+VIC,Melton Health,West,3337,208,Djerriwarrh Health Service (Vic),Major Cities,17.0,Unpeered
+VIC,Mercy Health - O'Connell Family Centre,Canterbury,3126,267,Mercy Public Hospital Inc. (Vic),Major Cities,20.0,Early parenting centres
+VIC,Mercy Hospital for Women,Heidelberg,3084,267,Mercy Public Hospital Inc. (Vic),Major Cities,162.3,Womens
+VIC,Mercy Public Hospital [Werribee],Werribee,3030,267,Mercy Public Hospital Inc. (Vic),Major Cities,227.8,Public acute group B
+VIC,Mildura Base Hospital,Mildura,3500,279,Mildura Base Hospital,Outer Regional,136.0,Public acute group A
+VIC,Monash Medical Centre [Clayton],Clayton,3168,269,Monash Health,Major Cities,664.6,Principal referral
+VIC,Monash Medical Centre [Moorabbin],East,3165,269,Monash Health,Major Cities,109.6,Public acute group A
+VIC,Moyne Health Services [Port Fairy],Fairy,3284,287,Moyne Health Services (Port Fairy),Inner Regional,15.0,Public acute group D
+VIC,Nathalia District Hospital,Nathalia,3638,238,Nathalia District Hospital,Inner Regional,6.0,Very small
+VIC,Northeast Health Wangaratta,Wangaratta,3677,243,Northeast Health Wangaratta,Inner Regional,137.3,Public acute group A
+VIC,Numurkah & District Health Service,Numurkah,3636,237,Numurkah and District Health Service,Inner Regional,22.0,Public acute group D
+VIC,Omeo District Health,Omeo,3898,258,Omeo District Health,Outer Regional,4.0,Very small
+VIC,Orbost Regional Health,Orbost,3888,261,Orbost Regional Health,Outer Regional,15.0,Public acute group C
+VIC,Orygen Inpatient Unit,Footscray,3011,225,Melbourne Health,Major Cities,15.9,Psychiatric
+VIC,Otway Health [Apollo Bay],Bay,3233,230,Otway Health and Community Services (Apollo Bay),Inner Regional,4.0,Very small
+VIC,Peter MacCallum Cancer Institute,Melbourne,3000,264,Peter MacCallum Cancer Institute (Vic),Major Cities,159.4,Other public acute specialised
+VIC,Portland District Health,Portland,3305,288,Portland District Health,Outer Regional,53.0,Public acute group C
+VIC,Queen Elizabeth Centre [Noble Park],Park,3174,299,Victoria Virtual Local Hospital Network,Major Cities,39.2,Early parenting centres
+VIC,Robinvale District Health Services,Robinvale,3549,281,Robinvale District Health Services,Outer Regional,14.0,Public acute group D
+VIC,Rochester & Elmore District Health Servi,Rochester,3561,219,Rochester and Elmore District Health Service,Inner Regional,12.0,Public acute group D
+VIC,Rosebud Hospital,Rosebud,3939,270,Peninsula Health (Vic),Major Cities,76.0,Public acute group B
+VIC,Royal Children's Hospital [Parkville],Parkville,3052,223,Royal Children's Hospital (Melbourne),Major Cities,340.4,Childrens
+VIC,Royal Melbourne Hospital [Parkville],Parkville,3052,225,Melbourne Health,Major Cities,745.8,Principal referral
+VIC,Royal Melbourne Hospital- Royal Park Cam,Parkville,3052,225,Melbourne Health,Major Cities,138.3,Rehabilitation and GEM
+VIC,Royal Talbot Rehabilitation Centre [Kew],Kew,3101,266,Austin Health (Vic),Major Cities,77.1,Rehabilitation and GEM
+VIC,Royal Women's Hospital [Carlton],Parkville,3052,224,Royal Women's Hospital (Melbourne),Major Cities,201.0,Womens
+VIC,Rural Northwest Health [Hopetoun],Hopetoun,3396,274,Rural Northwest Health (Vic),Remote,4.0,Very small
+VIC,Rural Northwest Health [Warracknabeal],Warracknabeal,3393,274,Rural Northwest Health (Vic),Outer Regional,12.0,Public acute group D
+VIC,Sandringham Hospital,Sandringham,3191,268,Alfred Health (Vic),Major Cities,72.2,Public acute group B
+VIC,Seymour District Memorial Hospital,Seymour,3660,240,Seymour District Memorial Hospital,Inner Regional,42.0,Public acute group C
+VIC,South Gippsland Hospital [Foster],Foster,3960,255,South Gippsland Hospital (Foster),Inner Regional,16.0,Public acute group C
+VIC,South West Healthcare [Camperdown],Camperdown,3260,284,South West Healthcare (Vic),Inner Regional,25.0,Public acute group C
+VIC,South West Healthcare [Warrnambool],Warrnambool,3280,284,South West Healthcare (Vic),Inner Regional,171.0,Public acute group A
+VIC,St George's Health Service- Aged Care,Kew,3101,262,St Vincent's Hospital (Melbourne) Limited,Major Cities,117.3,Mixed subacute and non-acute
+VIC,St Vincent's Hospital [Fitzroy],Fitzroy,3065,262,St Vincent's Hospital (Melbourne) Limited,Major Cities,487.7,Principal referral
+VIC,Stawell Regional Health,Stawell,3380,204,Stawell Regional Health,Inner Regional,37.0,Public acute group C
+VIC,Sunbury Day Hospital,Sunbury,3429,209,Western Health (Vic),Major Cities,27.0,Other day procedure hospital
+VIC,Sunshine Hospital,Albans,3021,209,Western Health (Vic),Major Cities,568.3,Public acute group B
+VIC,Swan Hill District Health [Nyah],West,3595,212,Swan Hill District Health,Outer Regional,0.0,Very small
+VIC,Swan Hill District Health [Swan Hill],Hill,3585,212,Swan Hill District Health,Outer Regional,64.1,Public acute group C
+VIC,Tallangatta Health Service,Tallangatta,3700,248,Tallangatta Health Service,Outer Regional,8.3,Very small
+VIC,Terang & Mortlake Health Service [Terang,Terang,3264,289,Terang and Mortlake Health Service (Terang),Inner Regional,14.0,Public acute group D
+VIC,The Alfred,Prahran,3004,268,Alfred Health (Vic),Major Cities,709.1,Principal referral
+VIC,The Bendigo Hospital,Bendigo,3550,210,Bendigo Health Care Group,Inner Regional,318.8,Public acute group A
+VIC,The Kilmore & District Hospital,Kilmore,3764,241,Kilmore and District Hospital,Inner Regional,36.0,Public acute group C
+VIC,The Mornington Centre,Mornington,3931,270,Peninsula Health (Vic),Major Cities,92.0,Rehabilitation and GEM
+VIC,The Northern Hospital [Epping],Epping,3076,226,Northern Health (Vic),Major Cities,445.9,Public acute group A
+VIC,The Peter James Centre [East Burwood],Hill,3131,234,Eastern Health (Vic),Major Cities,116.2,Mixed subacute and non-acute
+VIC,The Royal Victorian Eye & Ear Hospital,Melbourne,3002,263,Royal Victorian Eye and Ear Hospital,Major Cities,56.6,Other public acute specialised
+VIC,Timboon & District Healthcare Service,Timboon,3268,286,Timboon and District Healthcare Service,Outer Regional,14.0,Public acute group D
+VIC,Tweddle Child & Family Health Centre [Fo,Footscray,3011,999,Not stated/inadequately described,Major Cities,20.0,Early parenting centres
+VIC,University Hospital Geelong,Geelong,3220,231,Barwon Health,Major Cities,495.4,Principal referral
+VIC,Upper Murray Health & Community Services,Corryong,3707,250,Upper Murray Health and Community Services (Corryong),Outer Regional,10.0,Public acute group D
+VIC,Ursula Frayne Centre (CA),Footscray,3011,267,Mercy Public Hospital Inc. (Vic),Major Cities,16.0,Psychiatric
+VIC,Victorian Institute of Forensic Mental H,Fairfield,3078,227,Victorian Institute of Forensic Mental Health,Major Cities,151.0,Psychiatric
+VIC,Victorian Institute of Forensic Mental H,Melbourne,3003,227,Victorian Institute of Forensic Mental Health,Major Cities,35.0,Psychiatric
+VIC,Wantirna Health,Wantirna,3152,234,Eastern Health (Vic),Major Cities,62.3,Mixed subacute and non-acute
+VIC,West Gippsland Healthcare Group [Warragu,Warragul,3820,252,West Gippsland Healthcare Group,Inner Regional,90.0,Public acute group B
+VIC,West Wimmera Health Service [Jeparit],Jeparit,3423,277,West Wimmera Health Service,Outer Regional,4.0,Very small
+VIC,West Wimmera Health Service [Kaniva],Kaniva,3419,277,West Wimmera Health Service,Outer Regional,6.0,Very small
+VIC,West Wimmera Health Service [Nhill],Nhill,3418,277,West Wimmera Health Service,Outer Regional,21.0,Public acute group C
+VIC,West Wimmera Health Service [Rainbow],Rainbow,3424,277,West Wimmera Health Service,Remote,7.0,Very small
+VIC,Western District Health Service [Colerai,Coleraine,3315,282,Western District Health Service (Vic),Outer Regional,10.0,Very small
+VIC,Western District Health Service [Hamilto,Hamilton,3300,282,Western District Health Service (Vic),Inner Regional,72.0,Public acute group C
+VIC,Western District Health Service [Penshur,Penshurst,3289,282,Western District Health Service (Vic),Outer Regional,6.0,Very small
+VIC,Western Hospital [Footscray],Footscray,3011,209,Western Health (Vic),Major Cities,285.7,Public acute group A
+VIC,Williamstown Hospital,Williamstown,3016,209,Western Health (Vic),Major Cities,102.6,Public acute group B
+VIC,Wimmera Base Hospital [Horsham],Horsham,3400,275,Wimmera Health Care Group,Outer Regional,93.0,Public acute group C
+VIC,Wimmera Base Hospital [Rupanyup],Rupanyup,3388,277,West Wimmera Health Service,Outer Regional,2.0,Outpatient hospital
+VIC,Womens at Sandringham,Rupanyup,3388,224,Royal Women's Hospital (Melbourne),Major Cities,28.0,Womens
+VIC,Yarra Ranges Health,Lilydale,3140,234,Eastern Health (Vic),Major Cities,16.0,Other day procedure hospital
+VIC,Yarram & District Health Service,Yarram,3971,257,Yarram and District Health Service,Inner Regional,22.0,Public acute group D
+VIC,Yarrawonga District Health Service,Yarrawonga,3730,244,Yarrawonga District Health Service,Inner Regional,29.0,Public acute group C
+VIC,Yea & District Memorial Hospital,Yea,3717,242,Yea and District Memorial Hospital,Inner Regional,10.0,Public acute group D
+WA,N/A,Joondalup,6027,501,North Metropolitan Health Service (WA),Major Cities,467.0,Public acute group A
+WA,N/A,Mandurah,6210,502,South Metropolitan Health Service (WA),Major Cities,148.0,Public acute group B
+WA,Albany Hospital,Albany,6330,503,WA Country Health Service,Outer Regional,128.0,Public acute group B
+WA,Armadale-Kelmscott Memorial Hospital,Nasura,6112,504,N/A,Major Cities,237.1,Public acute group A
+WA,Augusta Hospital,Augusta,6290,503,WA Country Health Service,Inner Regional,10.0,Public acute group D
+WA,Bentley Hospital,Bentley,6102,504,N/A,Major Cities,185.4,Unpeered
+WA,Beverley Hospital,Beverley,6304,503,WA Country Health Service,Outer Regional,4.0,Very small
+WA,Boddington Hospital,Boddington,6390,503,WA Country Health Service,Inner Regional,8.0,Very small
+WA,Boyup Brook Soldiers Memorial Hospital,Brook,6244,503,WA Country Health Service,Outer Regional,9.9,Very small
+WA,Bridgetown Hospital,Bridgetown,6255,503,WA Country Health Service,Inner Regional,24.0,Public acute group C
+WA,Broome Hospital,Broome,6725,503,WA Country Health Service,Remote,66.0,Public acute group C
+WA,Bruce Rock Memorial Hospital,Rock,6418,503,WA Country Health Service,Remote,4.0,Very small
+WA,Bunbury Hospital,Bunbury,6230,503,WA Country Health Service,Inner Regional,161.0,Public acute group B
+WA,Busselton Hospital,Busselton,6280,503,WA Country Health Service,Inner Regional,62.0,Public acute group C
+WA,Carnarvon Hospital,Carnarvon,6701,503,WA Country Health Service,Remote,39.0,Public acute group C
+WA,Collie Hospital,Collie,6225,503,WA Country Health Service,Inner Regional,25.0,Public acute group C
+WA,Corrigin Hospital,Corrigin,6375,503,WA Country Health Service,Remote,3.0,Very small
+WA,Cunderdin Hospital,Cunderdin,6407,503,WA Country Health Service,Outer Regional,3.1,Very small
+WA,Dalwallinu Hospital,Dalwallinu,6609,503,WA Country Health Service,Remote,4.0,Public acute group D
+WA,Denmark Hospital,Denmark,6333,503,WA Country Health Service,Outer Regional,5.8,Public acute group D
+WA,Derby Hospital,Derby,6728,503,WA Country Health Service,Very remote,31.0,Public acute group C
+WA,Dongara Multi-Purpose Health Centre,Dongara,6525,503,WA Country Health Service,Outer Regional,2.9,Very small
+WA,Donnybrook Hospital,Donnybrook,6239,503,WA Country Health Service,Inner Regional,14.0,Very small
+WA,Dumbleyung Memorial Hospital,Dumbleyung,6350,503,WA Country Health Service,Remote,3.3,Very small
+WA,Esperance Hospital,Esperance,6450,503,WA Country Health Service,Remote,36.0,Public acute group C
+WA,Exmouth Hospital,Exmouth,6707,503,WA Country Health Service,Very remote,6.0,Public acute group D
+WA,Fiona Stanley Hospital,Murdoch,6150,502,South Metropolitan Health Service (WA),Major Cities,744.4,Principal referral
+WA,Fitzroy Crossing Hospital,Crossing,6765,503,WA Country Health Service,Very remote,14.0,Public acute group D
+WA,Fremantle Hospital,Fremantle,6160,502,South Metropolitan Health Service (WA),Major Cities,246.3,Public acute group A
+WA,Geraldton Hospital,Geraldton,6530,503,WA Country Health Service,Outer Regional,100.0,Public acute group B
+WA,Gnowangerup Hospital,Gnowangerup,6335,503,WA Country Health Service,Remote,4.0,Very small
+WA,Goomalling Hospital,Goomalling,6460,503,WA Country Health Service,Outer Regional,4.0,Very small
+WA,Graylands Hospital,Claremont,6010,501,North Metropolitan Health Service (WA),Major Cities,135.4,Psychiatric
+WA,Halls Creek Hospital,Creek,6770,503,WA Country Health Service,Very remote,8.0,Public acute group D
+WA,Harvey Hospital,Harvey,6220,503,WA Country Health Service,Inner Regional,13.3,Public acute group D
+WA,Hedland Health Campus,Hedland,6722,503,WA Country Health Service,Remote,64.0,Public acute group C
+WA,Kalamunda Hospital,Kalamunda,6076,504,N/A,Major Cities,20.6,Public acute group D
+WA,Kalbarri Health Centre,Kalbarri,6536,503,WA Country Health Service,Remote,4.0,Very small
+WA,Kalgoorlie Hospital,Kalgoorlie,6430,503,WA Country Health Service,Outer Regional,119.0,Public acute group B
+WA,Katanning Hospital,Katanning,6317,503,WA Country Health Service,Outer Regional,23.2,Public acute group C
+WA,Kellerberrin Memorial Hospital,Kellerberrin,6410,503,WA Country Health Service,Outer Regional,4.0,Very small
+WA,King Edward Memorial Hospital for Women,Subiaco,6008,501,North Metropolitan Health Service (WA),Major Cities,237.7,Womens
+WA,Kojonup Hospital,Kojonup,6395,503,WA Country Health Service,Outer Regional,5.7,Very small
+WA,Kondinin Hospital,Kondinin,6367,503,WA Country Health Service,Remote,3.0,Very small
+WA,Kununoppin Hospital,Kununoppin,6489,503,WA Country Health Service,Remote,4.0,Very small
+WA,Kununurra Hospital,Kununurra,6743,503,WA Country Health Service,Remote,32.0,Public acute group C
+WA,Lake Grace Hospital,Grace,6353,503,WA Country Health Service,Remote,4.0,Very small
+WA,Laverton Hospital,Laverton,6440,503,WA Country Health Service,Very remote,7.9,Very small
+WA,Leonora Hospital,Leonora,6438,503,WA Country Health Service,Very remote,4.0,Very small
+WA,Margaret River Hospital,River,6285,503,WA Country Health Service,Inner Regional,18.0,Public acute group C
+WA,Meekatharra Hospital,Meekatharra,6642,503,WA Country Health Service,Very remote,11.0,Public acute group D
+WA,Merredin Hospital,Merredin,6415,503,WA Country Health Service,Outer Regional,18.0,Public acute group D
+WA,Moora Hospital,Moora,6510,503,WA Country Health Service,Outer Regional,12.0,Public acute group D
+WA,Morawa Hospital,Morawa,6623,503,WA Country Health Service,Remote,5.0,Very small
+WA,Mullewa Hospital,Mullewa,6630,503,WA Country Health Service,Remote,5.0,Very small
+WA,Murray Hospital,Pinjarra,6208,502,South Metropolitan Health Service (WA),Inner Regional,15.1,Public acute group D
+WA,Nannup Hospital,Nannup,6275,503,WA Country Health Service,Outer Regional,4.3,Very small
+WA,Narembeen Memorial Hospital,Narembeen,6369,503,WA Country Health Service,Remote,3.0,Very small
+WA,Narrogin Hospital,Narrogin,6312,503,WA Country Health Service,Outer Regional,46.0,Public acute group C
+WA,Newman Hospital,Newman,6753,503,WA Country Health Service,Very remote,8.0,Public acute group D
+WA,"Next Step Drug And Alcohol Services, Eas",Perth,6004,504,N/A,Major Cities,17.0,Drug and alcohol hospital
+WA,Nickol Bay Hospital,Karratha,6714,503,WA Country Health Service,Remote,28.0,Public acute group C
+WA,Norseman Hospital,Norseman,6443,503,WA Country Health Service,Very remote,5.5,Very small
+WA,North Midlands Hospital,Springs,6519,503,WA Country Health Service,Remote,5.0,Very small
+WA,Northam Hospital,Northam,6401,503,WA Country Health Service,Inner Regional,45.0,Public acute group C
+WA,Northampton Hospital,Northampton,6535,503,WA Country Health Service,Outer Regional,3.6,Very small
+WA,Onslow Hospital,Onslow,6710,503,WA Country Health Service,Very remote,6.0,Public acute group D
+WA,Osborne Park Hospital,Stirling,6021,501,North Metropolitan Health Service (WA),Major Cities,158.7,Public acute group C
+WA,Paraburdoo Hospital,Paraburdoo,6754,503,WA Country Health Service,Very remote,2.0,Very small
+WA,Pemberton Hospital,Pemberton,6260,503,WA Country Health Service,Outer Regional,7.8,Public acute group D
+WA,Pingelly Hospital,Pingelly,6308,503,WA Country Health Service,Outer Regional,0.0,Very small
+WA,Plantagenet Hospital,Barker,6324,503,WA Country Health Service,Outer Regional,15.3,Public acute group D
+WA,Princess Margaret Hospital for Children,Subiaco,6008,580,Child Adolescent Health Service (WA),Major Cities,211.7,Childrens
+WA,Quairading Hospital,Quairading,6383,503,WA Country Health Service,Outer Regional,5.0,Very small
+WA,Ravensthorpe Hospital,Ravensthorpe,6346,503,WA Country Health Service,Very remote,4.3,Very small
+WA,Rockingham General Hospital,Cooloongup,6168,502,South Metropolitan Health Service (WA),Major Cities,183.4,Public acute group A
+WA,Roebourne Hospital,Roebourne,6718,503,WA Country Health Service,Remote,8.0,Very small
+WA,Royal Perth Hospital Wellington Street C,Perth,6000,504,N/A,Major Cities,458.3,Principal referral
+WA,Selby Authorised Lodge,Park,6008,501,North Metropolitan Health Service (WA),Major Cities,39.8,Psychiatric
+WA,Sir Charles Gairdner Hospital,Nedlands,6009,501,North Metropolitan Health Service (WA),Major Cities,574.6,Principal referral
+WA,Sir Charles Gairdner Hospital Mental Hea,Nedlands,6069,501,North Metropolitan Health Service (WA),Major Cities,55.3,Psychiatric
+WA,Southern Cross Hospital,Cross,6426,503,WA Country Health Service,Remote,6.1,Very small
+WA,St John of God Midland Hospital,Midland,6056,504,N/A,Major Cities,307.0,Public acute group A
+WA,State Forensic Mental Health Service,Claremont,6010,501,North Metropolitan Health Service (WA),Major Cities,37.0,Psychiatric
+WA,Tom Price Hospital,Price,6751,503,WA Country Health Service,Very remote,8.0,Public acute group D
+WA,Wagin Hospital,Wagin,6315,503,WA Country Health Service,Outer Regional,10.0,Very small
+WA,Warren Hospital,Manjimup,6258,503,WA Country Health Service,Outer Regional,22.0,Public acute group C
+WA,Wongan Hills Hospital,Hills,6603,503,WA Country Health Service,Outer Regional,4.6,Public acute group D
+WA,Wyalkatchem-Koorda and Districts Hospita,Wyalkatchem,6485,503,WA Country Health Service,Outer Regional,2.1,Very small
+WA,Wyndham Hospital,Wyndham,6740,503,WA Country Health Service,Very remote,5.0,Public acute group D
+WA,York Hospital,York,6302,503,WA Country Health Service,Inner Regional,4.0,Very small
